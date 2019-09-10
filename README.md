@@ -12,4 +12,4 @@ Courtesy of the folks at @mcr.codes. For the full list of students enrolled [see
 
 ### [:books: Assignment](./assignment.md)
 
-### [Writing ReadME's](./assignment1.md)
+### [:books: Writing ReadME's](./assignment1.md)
