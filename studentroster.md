@@ -1,6 +1,6 @@
 ## Students - Recode Cohort 1 #
 
-** Eden Chemo **
+```** Eden Chemo **
 ** Soad Mansur **
 ** Aadil Mohammed **
 ** Nicholas  **
@@ -8,6 +8,6 @@
 ** Adele Gorman **
 ** Ewan **
 ** Josh Norburn **
-** Nick P **
+** Nick P **```
 
 
