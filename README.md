@@ -1,6 +1,6 @@
 # Recode Course
 
-Courtesy of the folks at @mcr.codes 
+Courtesy of the folks at @mcr.codes. For the full list of students enrolled [see here](./studentroster).
 
 //[Code Wars](./codewars.md)
 
