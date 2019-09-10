@@ -2,7 +2,7 @@
 
 Courtesy of the folks at @mcr.codes 
 
-[Code Wars](./codewars.md)
+//[Code Wars](./codewars.md)
 
 ## Recode Course
 
