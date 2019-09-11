@@ -1,20 +1,22 @@
+<h1 align="center">
+  Recode 
+</h1>
+
 <p align="center">
     <a href="https://recode.org.uk"><img src="https://i.ibb.co/tHTcXNp/k-Gn-Cr-QO-400x400.jpg" alt="k-Gn-Cr-QO-200x200" border="0"></a><br /><a target='_blank' <br />
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a>
 </p>
-<h1 align="center">
-  Recode 
-</h1>
+
 
 <h3 align="center">
  :rocket:
 </h3>
 <h3 align="center">
-  Fast in every way that matters
+  Giving everyone the opportunity to learn to code
 </h3>
 <p align="center">
-  Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps
+  12 Week intensive coding bootcamp - Teaching *HTML, CSS and Javascript* :books:
 </p>
 
 
