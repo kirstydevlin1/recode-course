@@ -1,45 +1,61 @@
-<p align="center">
-    <a href="https://recode.org.uk"><img src="https://i.ibb.co/tHTcXNp/k-Gn-Cr-QO-400x400.jpg" alt="k-Gn-Cr-QO-200x200" border="0"></a><br /><a target='_blank' <br />
-  </a>
-</p>
+# Bespoke Kata
 
+In this week's track, you'll be writing code to pass tests that we've written.
 
-<h2 align="center">
-  Giving everyone the opportunity to learn to code
-</h2>
-<p align="center">
-    12 week intensive coding bootcamp - Teaching <b> HTML, CSS and Javascript* :books: </b>
-</p>
+## Learning objectives
 
-<h3 align="center">
- :rocket:
-</h3>
+To be able to answer "yes" to the following questions:
 
-<h1 align="center">
-  Recode Course - Cohort 1
-</h1>
+- Are you confident working with different data types and structures in JavaScript?
+- Can you write functions to encapsulate a piece of logic?
+- Can you write a test that describes the expected behaviour of a function?
 
-Courtesy of the folks at @mcr. props to Joe Stephen and the team for this. 
+In addition, you'll also get more practice using the skills you gained during the pre-course.
 
-* For the full list of students enrolled [see here](./studentroster).
+## Concepts
 
-* [Code Wars](./codewars.md)
+- Primitive data types - booleans, numbers, strings
+- Data structures - arrays, objects
+- Functions
+- Operators
+- Control-flow
 
-# Week 8
+## Challenge
 
-### Day 1 -- Intro to Testing
-* [Slides](https://docs.google.com/presentation/d/1qENlwMDmMZoYv1G-Xak2bzhHsP0Y9a4q0pPccfP1TJw/edit?usp=sharing)
-* [Recorded Lecture](https://drive.google.com/file/d/1xGc4DgxHkCDKRIOq3UL68qec_oTHAet_/view?usp=sharing)
+This week's challenge uses the [JavaScript Basics](https://github.com/MCRcodes/javascript-basics) repository on GitHub. You will be pairing so please choose driver/navigator roles between you now (it doesn't matter who goes first, as you will swap over). 
 
-### [:books: Assignment](./assignment.md)
+**Driver:**
 
-### [:books: Writing ReadME's](./assignment1.md)
+* [ ] Fork the [repository](https://github.com/MCRcodes/javascript-basics) to your own GitHub profile.
+* [ ] Clone down your fork.
+* [ ] Change directory into your cloned folder and run `npm install`.
 
-### Day 2 -- Github navigation
+**Navigator:**
 
-* VERY Helpful [Git cheat sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+You won't fork the existing repository, as you want to build on top of the work the current driver has done when you swap roles. The way around this is to clone down your partner's repository and push it up to an empty repository on your GitHub.
 
-### Day 3 -- Continuing with Testing / Git / Pairing with partners
+* [ ] Create a new repository on GitHub without a README called `javascript-basics`.
+* [ ] Clone down your partner's repository (always use the SSH URL) and change directory into it.
+* [ ] Rename the `origin` remote of the local repository to your partner's username (`git remote rename origin <your partner's username>`)
+* [ ] Create a new remote named `origin` and set it to the SSH URL of your newly created remote repository (`git remote add origin <your repository url>`).
 
-* Read complete tutorial on setting up [Git environment](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
+**Driver:**
 
+* [ ] Add a remote to your local repository pointing towards your partner's (`git remote add <your_partners_username> <your_partners_ssh_repository_url>`).
+* [ ] Run `npm install`.
+
+You can find out more about how this all works in our [:zap: Git Pong](../bytes/git/git-pong.md) byte.
+
+**Both Pairs:**
+
+* [ ] Read the bytes below.
+* [ ] Start on the walkthrough - step 1 is linked below.
+
+## Bytes
+
+Bytes are like our course encyclopedia if you wish. They cover concepts in more detail than in lectures - **you should read them as they pop up in walkthroughs**.
+
+- [:zap: Anatomy of a JavaScript Program](../bytes/javascript-101/anatomy-of-a-javascript-program.md)
+- [:zap: Functions](../bytes/javascript-101/functions.md)
+
+## [Go to step 1](walkthrough/step1.md)
