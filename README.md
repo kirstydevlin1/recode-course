@@ -4,16 +4,16 @@
 </p>
 
 
-<h3 align="center">
- :rocket:
-</h3>
-<h3 align="center">
+<h2 align="center">
   Giving everyone the opportunity to learn to code
-</h3>
+</h2>
 <p align="center">
   12 Week intensive coding bootcamp - Teaching *HTML, CSS and Javascript* :books:
 </p>
 
+<h3 align="center">
+ :rocket:
+</h3>
 
 <h1 align="center">
   Recode Course - Cohort 1
