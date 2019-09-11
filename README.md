@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://recode.org.uk">
+    <a href="https://recode.org.uk"><img src="https://i.ibb.co/tHTcXNp/k-Gn-Cr-QO-400x400.jpg" alt="k-Gn-Cr-QO-400x400" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>forum picture upload</a><br />
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a>
 </p>
