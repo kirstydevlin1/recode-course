@@ -8,7 +8,7 @@
   Giving everyone the opportunity to learn to code
 </h2>
 <p align="center">
-  12 Week intensive coding bootcamp - Teaching *HTML, CSS and Javascript* :books:
+    12 Week intensive coding bootcamp - Teaching <b> HTML, CSS and Javascript* :books: </b>
 </p>
 
 <h3 align="center">
@@ -19,7 +19,9 @@
   Recode Course - Cohort 1
 </h1>
 
-Courtesy of the folks at @mcr.codes. For the full list of students enrolled [see here](./studentroster).
+Courtesy of the folks at @mcr. props to Joe Stephen and the team for this. 
+
+* For the full list of students enrolled [see here](./studentroster).
 
 * [Code Wars](./codewars.md)
 
@@ -32,3 +34,12 @@ Courtesy of the folks at @mcr.codes. For the full list of students enrolled [see
 ### [:books: Assignment](./assignment.md)
 
 ### [:books: Writing ReadME's](./assignment1.md)
+
+### Day 2 -- Github navigation
+
+* VERY Helpful [Git cheat sheet] (https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+
+### Day 3 -- Continuing with Testing / Git / Pairing with partners
+
+* Read complete tutorial on setting up [Git environment] (https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
+
