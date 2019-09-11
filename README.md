@@ -8,7 +8,7 @@
   Giving everyone the opportunity to learn to code
 </h2>
 <p align="center">
-    12 Week intensive coding bootcamp - Teaching <b> HTML, CSS and Javascript* :books: </b>
+    12 week intensive coding bootcamp - Teaching <b> HTML, CSS and Javascript* :books: </b>
 </p>
 
 <h3 align="center">
