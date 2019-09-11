@@ -37,9 +37,9 @@ Courtesy of the folks at @mcr. props to Joe Stephen and the team for this.
 
 ### Day 2 -- Github navigation
 
-* VERY Helpful [Git cheat sheet] (https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+* VERY Helpful [Git cheat sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 
 ### Day 3 -- Continuing with Testing / Git / Pairing with partners
 
-* Read complete tutorial on setting up [Git environment] (https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
+* Read complete tutorial on setting up [Git environment](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
 
