@@ -1,10 +1,5 @@
-<h1 align="center">
-  Recode 
-</h1>
-
 <p align="center">
     <a href="https://recode.org.uk"><img src="https://i.ibb.co/tHTcXNp/k-Gn-Cr-QO-400x400.jpg" alt="k-Gn-Cr-QO-200x200" border="0"></a><br /><a target='_blank' <br />
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a>
 </p>
 
@@ -20,13 +15,15 @@
 </p>
 
 
-# Recode Course - Cohort 1
+<h1 align="center">
+  Recode Course - Cohort 1
+</h1>
 
 Courtesy of the folks at @mcr.codes. For the full list of students enrolled [see here](./studentroster).
 
 * [Code Wars](./codewars.md)
 
-## Week 8
+# Week 8
 
 ### Day 1 -- Intro to Testing
 * [Slides](https://docs.google.com/presentation/d/1qENlwMDmMZoYv1G-Xak2bzhHsP0Y9a4q0pPccfP1TJw/edit?usp=sharing)
