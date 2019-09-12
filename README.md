@@ -25,7 +25,7 @@ Courtesy of the folks at @mcr. props to Joe Stephen and the team for this.
 
 * [Code Wars](./codewars.md)
 
-# Week 8
+# Week 8 (8th Sept - 13th Sept 2019)
 
 ### Day 1 -- Intro to Testing
 * [Slides](https://docs.google.com/presentation/d/1qENlwMDmMZoYv1G-Xak2bzhHsP0Y9a4q0pPccfP1TJw/edit?usp=sharing)
@@ -46,3 +46,5 @@ Courtesy of the folks at @mcr. props to Joe Stephen and the team for this.
 ### Day 4 -- Javascript Recap
 
 [:rocket: TDD Kata](/TDDKata.md)
+
+
