@@ -42,7 +42,7 @@ You won't fork the existing repository, as you want to build on top of the work 
 * [ ] Add a remote to your local repository pointing towards your partner's (`git remote add <your_partners_username> <your_partners_ssh_repository_url>`).
 * [ ] Run `npm install`.
 
-You can find out more about how this all works in our [:zap: Git Pong](../bytes/git/git-pong.md) byte.
+You can find out more about how this all works in our [:zap: Git Pong](../gitpong.md) byte.
 
 **Both Pairs:**
 
