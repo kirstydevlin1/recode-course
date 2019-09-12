@@ -33,7 +33,7 @@ Courtesy of the folks at @mcr. props to Joe Stephen and the team for this.
 
 ### [:books: Assignment](./assignment.md)
 
-### [:books: How to Write a ReadME's](https://medium.com/swlh/how-to-make-the-perfect-readme-md-on-github-92ed5771c061)
+### [:books: How to Write a ReadME](https://medium.com/swlh/how-to-make-the-perfect-readme-md-on-github-92ed5771c061)
 
 ### Day 2 -- Github navigation
 
