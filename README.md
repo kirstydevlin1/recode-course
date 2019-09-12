@@ -43,4 +43,6 @@ Courtesy of the folks at Manchester Codes props to Joe Stephen and the team for 
 
 ### Day 4 -- Javascript Recap
 
-[:rocket: TDD Kata](https://github.com/kirstydevlin1/recode-course/blob/master/Week8/TDDKata.md)
+* [:rocket: TDD Kata](https://github.com/kirstydevlin1/recode-course/blob/master/Week8/TDDKata.md)
+
+* Slides - Javascript Types Recap
