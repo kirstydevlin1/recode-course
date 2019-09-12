@@ -45,4 +45,4 @@ Courtesy of the folks at @mcr. props to Joe Stephen and the team for this.
 
 ### Day 4 -- Javascript Recap
 
-[:rocket: TDD Kata](.Week8/TDDKata.md)
+[:rocket: TDD Kata](https://github.com/kirstydevlin1/recode-course/blob/master/Week8/TDDKata.md)
