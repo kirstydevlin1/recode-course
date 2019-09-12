@@ -19,11 +19,9 @@
   Recode Course - Cohort 1
 </h1>
 
-Courtesy of the folks at @mcr. props to Joe Stephen and the team for this. 
+Courtesy of the folks at Manchester Codes props to Joe Stephen and the team for this! 
 
 * For the full list of students enrolled [see here](./studentroster).
-
-* [Code Wars](./codewars.md)
 
 # Week 8 (8th Sept - 13th Sept 2019)
 
