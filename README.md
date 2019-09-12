@@ -43,3 +43,6 @@ Courtesy of the folks at @mcr. props to Joe Stephen and the team for this.
 
 * Read complete tutorial on setting up [Git environment](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
 
+### Day 4 -- Javascript Recap
+
+[:rocket: TDD Kata](/TDDKata.md)
