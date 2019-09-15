@@ -54,3 +54,5 @@ Courtesy of the folks at Manchester Codes props to Joe Stephen and the team for 
 :books: [Bouncing Balls Assignment](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Adding_bouncing_balls_features) 
 
 ## Week 9 (16th Sept - 21st Sept 2019)
+
+:dog: Create your own [Virtual Pet](./Week9)
