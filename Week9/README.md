@@ -1,1 +1,1 @@
-:pin: Create your very own [Virtual Pet!](./VirtualPet) :cat:
+:one: Create your very own [Virtual Pet!](./VirtualPet) :cat:
