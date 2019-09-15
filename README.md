@@ -23,7 +23,7 @@ Courtesy of the folks at Manchester Codes props to Joe Stephen and the team for 
 
 * For the full list of students enrolled [see here](./studentroster).
 
-# Week 8 (8th Sept - 13th Sept 2019)
+## Week 8 (8th Sept - 13th Sept 2019)
 
 ### Day 1 -- Intro to Testing
 * [Slides](https://docs.google.com/presentation/d/1qENlwMDmMZoYv1G-Xak2bzhHsP0Y9a4q0pPccfP1TJw/edit?usp=sharing)
@@ -46,3 +46,5 @@ Courtesy of the folks at Manchester Codes props to Joe Stephen and the team for 
 * [:rocket: TDD Kata](https://github.com/kirstydevlin1/recode-course/blob/master/Week8/TDDKata.md)
 
 * Slides - Javascript Types Recap
+
+## Week 9 (16th Sept - 21st Sept 2019)
