@@ -25,33 +25,16 @@ Courtesy of the folks at Manchester Codes props to Joe Stephen and the team for 
 
 ## Week 8 (8th Sept - 13th Sept 2019)
 
-### Monday -- Intro to Testing
-* [Slides](https://docs.google.com/presentation/d/1qENlwMDmMZoYv1G-Xak2bzhHsP0Y9a4q0pPccfP1TJw/edit?usp=sharing)
-* [Recorded Lecture](https://drive.google.com/file/d/1xGc4DgxHkCDKRIOq3UL68qec_oTHAet_/view?usp=sharing)
+We covered: 
 
-### [:books: Assignment](./assignment.md)
+### Intro to Testing / TDD
+### Github navigation
+### Navigating Git cheat sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+### Continuing with Testing / Git / Pairing with partners
+### Javascript Recap
+### Building Objects
 
-#### [:books: How to Write a ReadME](https://medium.com/swlh/how-to-make-the-perfect-readme-md-on-github-92ed5771c061)
-
-### Tuesday -- Github navigation
-
-* VERY Helpful [Git cheat sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
-
-### Wednesday -- Continuing with Testing / Git / Pairing with partners
-
-* Read complete tutorial on setting up [Git environment](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
-
-### Thursday -- Javascript Recap
-
-* [:rocket: TDD Kata](https://github.com/kirstydevlin1/recode-course/blob/master/Week8/TDDKata.md)
-
-* Slides - Javascript Types Recap
-
-### Friday -- Building Objects
-
-:8ball: Read and understand [Building Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_building_practice)
-
-:books: [Bouncing Balls Assignment](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Adding_bouncing_balls_features) 
+For the full week click [here](/Week8)
 
 ## Week 9 (16th Sept - 21st Sept 2019)
 
