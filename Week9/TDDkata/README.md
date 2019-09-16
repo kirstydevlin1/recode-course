@@ -50,12 +50,12 @@ You can find out more about how this all works in our [:zap: Git Pong](../bytes/
 
 ## Challenges
 
-1. [FizzBuzz](walkthrough/1_FizzBuzz.md)
-2. [Boolean to word](walkthrough/2_BooleanToWord.md)
-3. [Convert a Number to a reversed Array of digits](walkthrough/3_Digits.md)
-4. [Human Years, Cat Years, Dog Years](walkthrough/4_HumanCatDogYears.md)
-5. [How long will it take the train to reach its destination?](walkthrough/5_ReachDestination.md)
-6. [Bart, Lisa & Maggie](walkthrough/6_JoinNames.md)
-7. [Find employer role in the company](walkthrough/7_EmployerRole.md)
+1. [FizzBuzz](./step1.md)
+2. [Boolean to word](./step2.md)
+3. [Convert a Number to a reversed Array of digits](./step3.md)
+4. [Human Years, Cat Years, Dog Years](./step4.md)
+5. [How long will it take the train to reach its destination?](./step5.md)
+6. [Bart, Lisa & Maggie](./step6.md)
+7. [Find employer role in the company](./step7.md)
 
-## [Go to step 1](walkthrough/1_FizzBuzz.md)
+## [Go to step 1](.walkthrough/step1.md)
