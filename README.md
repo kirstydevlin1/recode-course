@@ -27,12 +27,12 @@ Courtesy of the folks at Manchester Codes props to Joe Stephen and the team for 
 
 We covered: 
 
- #### Intro to Testing / TDD :white_check_mark:
- #### Github navigation :white_check_mark:
-:white_check_mark: #### Navigating Git cheat sheet
-:white_check_mark: #### Continuing with Testing / Git / Pairing with partners
-:white_check_mark: #### Javascript Recap
-:white_check_mark: #### Building Objects
+#### Intro to Testing / TDD :white_check_mark:
+#### Github navigation :white_check_mark:
+#### Navigating Git cheat sheet :white_check_mark:
+#### Continuing with Testing / Git / Pairing with partners
+#### Javascript Recap :white_check_mark:
+#### Building Objects :white_check_mark:
 
 For the full week click [here](/Week8)
 
