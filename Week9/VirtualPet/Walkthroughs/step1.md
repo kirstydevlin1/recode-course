@@ -37,6 +37,6 @@ Once you've done that, check `git status` again to see that node_modules isn;t i
 
 If you're good, then add, commit and push the files up to GitHub and confirm that they are visible on GitHub.
 
-Node that the contents of the README.md file are going to be extremely important. You are putting your code in public repositories on GitHub and the README.md file is the first thing that other programmers and potential employers are going to see when they look at your repo. It's okay to start with a placeholder at the moment, but you will want to keep updating your README as you go along, ensuring that it tells people about the project, how to get set up with it, how to contribute to it etc.
+Node that the contents of the README.md file are going to be extremely important. You are putting your code in public repositories on GitHub and the README.md file is the first thing that other programmers and potential employers are going to see when they look at your repo. It's okay to start with a placeholder at the moment, but you will want to keep updating your README as you go along, ensuring that it tells people about the project, how to get set up with it, how to contribute to it etc
 
 ## [Step 2](../step2.md)
