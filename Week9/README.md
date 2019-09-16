@@ -1,6 +1,6 @@
  ## Week 9
 
-:one: [TDD KATA](./TDDkata)
+:one: Get practising testing and coding in Javscript with [TDD KATA](./TDDkata)
 
 
 :two: *Personal Development* -- This week you will having 1-2-1's with Natalie who will be trying to get to understand what opportunities we need to be be on the look out for! :rocket:
