@@ -27,8 +27,8 @@ Courtesy of the folks at Manchester Codes props to Joe Stephen and the team for 
 
 We covered: 
 
-:white_check_mark: #### Intro to Testing / TDD
-:white_check_mark: #### Github navigation
+ #### Intro to Testing / TDD :white_check_mark:
+ #### Github navigation :white_check_mark:
 :white_check_mark: #### Navigating Git cheat sheet
 :white_check_mark: #### Continuing with Testing / Git / Pairing with partners
 :white_check_mark: #### Javascript Recap
