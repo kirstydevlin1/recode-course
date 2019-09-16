@@ -20,11 +20,11 @@ To be able to answer "yes" to the following questions:
 
 ## Challenge
 
-This week's challenge uses the [DIY Kata](https://github.com/recode-course/Week9/DIYKATA) repository on GitHub. You will be pairing so please choose driver/navigator roles between you now (it doesn't matter who goes first, as you will swap over, but if you were the driver first last week - and your partner wasn't - then you might want to consider navigating first this week). 
+This week's challenge uses the [DIY Kata](https://github.com/recode-course/Week9/DIYKATA.md) repository on GitHub. You will be pairing so please choose driver/navigator roles between you now (it doesn't matter who goes first, as you will swap over, but if you were the driver first last week - and your partner wasn't - then you might want to consider navigating first this week). 
 
 **Driver:**
 
-* [ ] Fork the [repository](https://github.com/MCRcodes/diy-kata) to your own GitHub profile.
+* [ ] Fork the [repository](https://github.com/recode-course/Week9/DIYKATA.md) to your own GitHub profile.
 * [ ] Clone down your fork.
 * [ ] Change directory into your cloned folder and run `npm install`.
 

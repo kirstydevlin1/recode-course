@@ -1,6 +1,6 @@
 # Convert a Number to a reversed Array of digits
 
-![54321](images/54321.png)
+![54321](./images/54321.png)
 
 ## Expected Behaviour
 
