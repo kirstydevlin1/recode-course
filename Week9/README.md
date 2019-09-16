@@ -9,3 +9,5 @@ There are also helpful *walkthroughs* for this challenge for when you get stuck!
 
 :three: Get practising testing and coding in Javascript with the [TDD KATA] challenge (./TDDkata)
 All of the links might not work for this, but all files are listed above and you can continue to go through the steps until I get chance to change them this week (apologies :angel:)
+
+:rotating_light: Any problems with accessing files with Github please contact *Kirsty* on Slack. Though please expect a delay of upto 12 hours with timezone differences
