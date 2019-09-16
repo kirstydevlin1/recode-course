@@ -1,13 +1,13 @@
  ## Week 9 - Lectures
 
-### Session :one: - Prototype / Constructor :one: 
+### Monday Session AM :one: - Prototype / Constructor :one: 
 * [Slides](https://docs.google.com/presentation/d/10bAyQG2Tws8__QmDbE13jXyDMr5bO-frw9-jLWQh5eI/edit?usp=sharing)
 * [Recorded Lecture (given by Joe)](https://youtu.be/492_KVgjHK0)
 * [Recorded Lecture (given by Ersel)](https://drive.google.com/open?id=1uUJ28rATZDFw1JsGrnn06t_lA_SxRvmI)
 * [:zap: Prototype / Constructor](bytes/javascript-101/prototype-constructor.md)
 
 
-### Sessions :two: - Object Oriented Programming
+### Monday Session PM :two: - Object Oriented Programming
 * [Slides](https://docs.google.com/presentation/d/1YmA7We-L4BjMGB2FHJTzg2Vcjq_itTieu87R_971hdU/edit?usp=sharing)
 * [Recorded Lecture: Part 1](https://drive.google.com/open?id=100uKFBNNLDi-yApruRbCkBCmGjK6WJJQ)
 * [Recorded Lecture: Part 2](https://drive.google.com/file/d/17gJ1pjnXxOs5vpgrGG61pbXku1Fh3BhS/view?usp=sharing)
