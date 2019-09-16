@@ -27,12 +27,12 @@ Courtesy of the folks at Manchester Codes props to Joe Stephen and the team for 
 
 We covered: 
 
-### Intro to Testing / TDD
-### Github navigation
-### Navigating Git cheat sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
-### Continuing with Testing / Git / Pairing with partners
-### Javascript Recap
-### Building Objects
+#### Intro to Testing / TDD
+#### Github navigation
+#### Navigating Git cheat sheet
+#### Continuing with Testing / Git / Pairing with partners
+#### Javascript Recap
+#### Building Objects
 
 For the full week click [here](/Week8)
 
