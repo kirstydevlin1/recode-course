@@ -36,6 +36,6 @@ Once you are done, commit your work, and push to GitHub
 - [Constructors and Prototypes](http://tobyho.com/2010/11/22/javascript-constructors-and/)
 - [this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
 
-## [Walkthrough](walkthrough/step3.md)
+## [Walkthrough](./Walkthrough/step3.md)
 
 ## [Step 4](step4.md)
