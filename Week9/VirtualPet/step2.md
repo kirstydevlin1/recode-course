@@ -35,6 +35,6 @@ Once you are done, commit your work, and push to GitHub:
 - [Jest matchers](https://facebook.github.io/jest/docs/en/expect.html)
 - [module.exports and require on FreeCodeCamp](https://medium.freecodecamp.org/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8)
 
-## [Walkthrough](./walkthrough/step2.md)
+## [Walkthrough](./Walkthrough/step2.md)
 
 ## [Step 3](step3.md)
