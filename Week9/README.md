@@ -14,7 +14,7 @@
 
 ## Challenges
 
-Create your very own [Virtual Pet!](./VirtualPet) :cat:
+:one: :dog: Create your very own [Virtual Pet!](./VirtualPet) :cat:
 There are also helpful *walkthroughs* for this challenge for when you get stuck! It's likely that this should take you a day or two to get through the whole excercise. You will be writing tests *and* writing Javascript. Please refer back to the Slides and recorded lecture on testing if you need a recap :star:
 
 
@@ -23,8 +23,6 @@ There are also helpful *walkthroughs* for this challenge for when you get stuck!
 
 :three: Get practising testing and coding in Javascript with the [TDD KATA] challenge (./TDDkata)
 All of the links might not work for this, but all files are listed above and you can continue to go through the steps until I get chance to change them this week (apologies :angel:)
-
-* [:dog: Track - Virtual Pet](week4/virtual-pet/README.md)
 
 
 
