@@ -1,8 +1,8 @@
 ## Week 8 
 
 ### Monday -- Intro to Testing
-* [Slides](https://docs.google.com/presentation/d/1qENlwMDmMZoYv1G-Xak2bzhHsP0Y9a4q0pPccfP1TJw/edit?usp=sharing)
-* [Recorded Lecture](https://drive.google.com/file/d/1xGc4DgxHkCDKRIOq3UL68qec_oTHAet_/view?usp=sharing)
+* Introduction to Testing [Slides](https://docs.google.com/presentation/d/1qENlwMDmMZoYv1G-Xak2bzhHsP0Y9a4q0pPccfP1TJw/edit?usp=sharing)
+* Checkout the [Recorded Lecture](https://drive.google.com/file/d/1xGc4DgxHkCDKRIOq3UL68qec_oTHAet_/view?usp=sharing)
 
 ### [:books: Assignment](./assignment.md)
 
@@ -10,7 +10,7 @@
 
 ### Tuesday -- Github navigation
 
-* VERY Helpful [Git cheat sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+* Get your hands on this [Git cheat sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 
 ### Wednesday -- Continuing with Testing / Git / Pairing with partners
 
