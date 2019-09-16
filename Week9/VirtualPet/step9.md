@@ -19,6 +19,6 @@ Your challenge in this step is to give the `Pet` function an `isAlive` property 
 
 Once you are done, commit your work, push to GitHub, and switch roles. :twisted_rightwards_arrows:
 
-## [Walkthrough](walkthrough/step9.md)
+## [Walkthrough](./Walkthrough/step9.md)
 
 ## [Step 10](step10.md)
