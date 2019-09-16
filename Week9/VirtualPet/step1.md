@@ -24,6 +24,6 @@ Every good code project starts with a git repository. To get started with your V
 - [Excellent README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 - [.gitignore file](https://git-scm.com/docs/gitignore)
 
-## [Walkthrough](./Walkthroughs/step1.md)
+## [Walkthrough](./Walkthrough/step1.md)
 
 ## [Step 2](step2.md)
