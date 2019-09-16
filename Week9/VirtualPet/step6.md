@@ -24,6 +24,6 @@ Once you are done, commit your work and push to GitHub
 - [Refactoring](https://www.agilealliance.org/glossary/refactoring)
 - [Magic Numbers](http://www.codereadability.com/is-two-a-magic-number-in-programming/)
 
-## [Walkthrough](walkthrough/step6.md)
+## [Walkthrough](./Walkthrough/step6.md)
 
 ## [Step 7](step7.md)
