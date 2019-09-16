@@ -4,7 +4,7 @@
 * [Slides](https://docs.google.com/presentation/d/10bAyQG2Tws8__QmDbE13jXyDMr5bO-frw9-jLWQh5eI/edit?usp=sharing)
 * [Recorded Lecture (given by Joe)](https://youtu.be/492_KVgjHK0)
 * [Recorded Lecture (given by Ersel)](https://drive.google.com/open?id=1uUJ28rATZDFw1JsGrnn06t_lA_SxRvmI)
-* [:zap: Prototype / Constructor](./bytes/javascript-101/prototype-constructor.md)
+* [:zap: Prototype / Constructor](./Bytes/javascript-101/prototype-constructor.md)
 
 
 ### Monday Session PM :two: - Object Oriented Programming
