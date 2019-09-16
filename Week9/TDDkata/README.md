@@ -58,4 +58,4 @@ You can find out more about how this all works in our [:zap: Git Pong](../bytes/
 6. [Bart, Lisa & Maggie](./step6.md)
 7. [Find employer role in the company](./step7.md)
 
-## [Go to step 1](.walkthrough/step1.md)
+## [Go to step 1](./step1.md)
