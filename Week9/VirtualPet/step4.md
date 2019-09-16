@@ -25,6 +25,6 @@ Once you are done, commit your work and push to GitHub
 
 ## Recommended Reading
 
-## [Walkthrough](walkthrough/step4.md)
+## [Walkthrough](./Walkthrough/step4.md)
 
 ## [Step 5](step5.md)
