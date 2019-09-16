@@ -27,4 +27,4 @@ Once you are done, commit your work, push to GitHub, and then you're done! Congr
 - [JavaScript Errors](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)
 - [Testing for errors in Jest](https://facebook.github.io/jest/docs/en/expect.html#tothrowerror)
 
-## [Walkthrough](walkthrough/step10.md)
+## [Walkthrough](./Walkthrough/step10.md)
