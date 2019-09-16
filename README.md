@@ -39,3 +39,5 @@ For the full week click [here](/Week8)
 ## Week 9 (16th Sept - 21st Sept 2019)
 
 :dog: Create your own [Virtual Pet](./Week9)
+
+:calendar: For the full task list see [here](./Week9/README.md)
