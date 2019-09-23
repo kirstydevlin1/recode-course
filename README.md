@@ -63,7 +63,7 @@ This week there are a number of slides and recorded lectures to get through. The
 
 ## Schedule for the week (Including scheduled field trips) :calendar: :train:
 
-**Monday** - Continue with lessons on Github :round_pushpin: Bolton. 
+* Monday - Continue with lessons on Github :round_pushpin: Bolton. 
 **Tuesday** - Continue with lessons on Github / For some a trip to **Working Wardrobe** :shirt: :round_pushpin: Bolton.
 **Wednesday** - **UKFAST** - Linux Workshop, K // **Telcom** - Fireside chats :round_pushpin: Manchester
 We will all meet at UKFast Campus at 9:40AM, Birley Fields, Manchester M15 5QJ, UK then get travel together to Telcom located in the Northern Quarter. 
