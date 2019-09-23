@@ -36,23 +36,23 @@ We covered:
 
 For the full week click [here](/Week8)
 
-## Week 9 (16th Sept - 21st Sept 2019)
+## Week :nine: (16th Sept - 21st Sept 2019)
 
 :dog: Create your own [Virtual Pet](./Week9)
 
 :calendar: For the full task list see [here](./Week9/README.md)
 
-## Week 10 :one: :zero: :bell: - 
+## Week 10 :ten: :bell: - 
 
 There are a number of slides and recorded lectures to get through to this week. They're fresh concepts that you may have touched upon previously. 
 
-:calendar: # Schedule for the week (Including scheduled field trips)
+# Schedule for the week (Including scheduled field trips) :calendar:
 
-*Monday* - [Bolton] Continue with lessons on Github
-*Tuesday* - [Bolton] Continue with lessons on Github / For some a trip to Working Wardrobe
-*Wednesday* - [Manchester] UKFAST - Linux Workshop // Telcom - Fireside chats
-*Thursday* - [Bolton] Lessons from Developers - Mike Longworth & Bring Digital CTO Andy
-*Friday* [Media City, Salford] Tour of the Landing (Home of the 3D printer) and tour and chat with tech team at the BBC!
+* Monday - :round_pushpin [Bolton] Continue with lessons on Github
+* Tuesday - :round_pushpin [Bolton] Continue with lessons on Github / For some a trip to Working Wardrobe
+* Wednesday - :round_pushpin [Manchester] UKFAST - Linux Workshop // Telcom - Fireside chats
+* Thursday - :round_pushpin [Bolton] Lessons from Developers - Mike Longworth & Bring Digital CTO Andy
+* Friday :round_pushpin [Salford] Tour of the Landing (Home of the 3D printer) and tour and chat with tech team at the BBC! :video:
 
 ### Session :one: Scope and Closure
 * [Slides](https://docs.google.com/presentation/d/1yHeG25mrWfSilJE1MMc_p-DLQUDNY233AGZQ7RVzwAQ/edit#slide=id.p)
