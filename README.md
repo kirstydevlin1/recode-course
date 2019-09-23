@@ -42,18 +42,21 @@ For the full week click [here](/Week8)
 
 :calendar: For the full task list see [here](./Week9/README.md)
 
-## Week :keycap_10: :bell: - 
+## Week 10 :bell: - 
 
-You're here! It's Week 10. 
+You're here! It's Week 10! 
 
-For some of you.. You may be wondering.. How the hell did I survive 10 weeks?! 
-For others you may have breezed through! As we enter the final few weeks of the course we're going to use this time to cover some more Javascript concepts..
+If you're reading this message you have managed to survive 10 whole weeks?! 
 
-There are a number of slides and recorded lectures to get through to this week. They're fresh concepts that you may have touched upon previously. 
+10 weeks of learning new skills and hopefully pushing yourself to limits that you didn't know you had.
+
+This week is going to be very much more of the same. You will be covering new concepts, developing on existing skills and growing in ability and confidence. As we enter the final few weeks of the course we're going to use some time to absorb new concepts, consolidate on previous lessons and learn from industry experts in the field.
+
+This week there are a number of slides and recorded lectures to get through. They're fresh concepts that you may have touched upon previously and I'll also be throwing in some other prep ahead of meeting folks in Industry.
 
 # Schedule for the week (Including scheduled field trips) :calendar: :train:
 
-* Monday - :round_pushpin: Bolton. Continue with lessons on Github
+* *Monday* - :round_pushpin: Bolton. Continue with lessons on Github
 * Tuesday - :round_pushpin: Bolton. Continue with lessons on Github / For some a trip to Working Wardrobe
 * Wednesday - :round_pushpin: Manchester UKFAST - Linux Workshop // Telcom - Fireside chats
 * Thursday - :round_pushpin: Bolton. We have two guest lecturers that are senior Developers to teach some sessions - The incredible Mike Longworth & Bring Digital's CTO Andy.
