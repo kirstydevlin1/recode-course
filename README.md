@@ -72,19 +72,19 @@ We will all meet at UKFast Campus at 9:40AM, Birley Fields, Manchester M15 5QJ, 
 
 If anyone is struggling to travel to any of the locations please *DM Kirsty* on Slack :car:
 
-### Session :one: Scope and Closure
+### Session :one: Scope and Closure - Approx time 1hr - 2hrs
 * [Slides](https://docs.google.com/presentation/d/1yHeG25mrWfSilJE1MMc_p-DLQUDNY233AGZQ7RVzwAQ/edit#slide=id.p)
 * [Recorded Lecture](https://drive.google.com/open?id=1xfI8J-4hEC_PiYkLWZZkwUxkF8_K6YYQ)
 
-### Session :two: - ES6 Features
+### Session :two: - ES6 Features - Approx time 1hr - 2hrs
 * [Slides](https://docs.google.com/presentation/d/1TSr01Bkcp4ASx2xYPcibl4gjUDLgS35A3pKs0qfC12k)
 * [Recorded Lecture](https://drive.google.com/file/d/1AcCBenXc1lDcaS8breoEMZF2S65ML80x/view?usp=sharing)
 
-### Session :three: - ES6 Classes and Arrow Functions
+### Session :three: - ES6 Classes and Arrow Functions - Approx time 1hr - 2hrs
 * [Slides](https://docs.google.com/presentation/d/1J79g3-L35aOLa842wQyrd04Y5sGDn6PqWE55pUxVhTI/edit#slide=id.p)
 * [Recorded Lecture](https://drive.google.com/open?id=1b64YAs3t1OCohelRfsSywv9zdb-lgkER)
 
-### Session :four: - Jest Mocks, Stubs and Spies
+### Session :four: - Jest Mocks, Stubs and Spies - Approx time 1hr - 2hrs
 * [Slides](https://docs.google.com/presentation/d/1fym8U4diqj0HZVGv-kAVj2k2OHTJ9E-3fOVUSjOnq3k/edit#slide=id.g34b902fe6f_0_30)
 * [Recorded Lecture: Part 1](https://drive.google.com/open?id=1c6PfcKeh5Ol3LNK-WY9opk6z70BOhJPV)
 * [Recorded Lecture: Part 2](https://drive.google.com/open?id=1gDah1eVdmFOj1XNbdT8xXiPGNGowu6ix)
