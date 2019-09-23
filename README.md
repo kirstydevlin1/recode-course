@@ -56,11 +56,11 @@ This week there are a number of slides and recorded lectures to get through. The
 
 # Schedule for the week (Including scheduled field trips) :calendar: :train:
 
-* *Monday* - :round_pushpin: Bolton. Continue with lessons on Github
-* Tuesday - :round_pushpin: Bolton. Continue with lessons on Github / For some a trip to Working Wardrobe
-* Wednesday - :round_pushpin: Manchester UKFAST - Linux Workshop // Telcom - Fireside chats
-* Thursday - :round_pushpin: Bolton. We have two guest lecturers that are senior Developers to teach some sessions - The incredible Mike Longworth & Bring Digital's CTO Andy.
-* Friday :round_pushpin: Salford - Media City. Tour of the Landing (Home of the 3D printer) and tour and chat with tech team at the BBC! :tv:
+* Monday - :round_pushpin: Bolton. Continue with lessons on Github
+* Tuesday - :round_pushpin: Bolton. Continue with lessons on Github / For some a trip to *Working Wardrobe* :shirt:
+* Wednesday - :round_pushpin: Manchester *UKFAST* - Linux Workshop // *Telcom* - Fireside chats
+* Thursday - :round_pushpin: Bolton. We have two guest lecturers that are senior Developers to teach some sessions - The incredible Mike Longworth & *Bring Digital*'s CTO Andy.
+* Friday :round_pushpin: Salford - Media City. Tour of the Landing (Home of the *3D printer!*) and tour and chat with tech team at the *BBC!* :tv:
 
 ### Session :one: Scope and Closure
 * [Slides](https://docs.google.com/presentation/d/1yHeG25mrWfSilJE1MMc_p-DLQUDNY233AGZQ7RVzwAQ/edit#slide=id.p)
@@ -79,7 +79,9 @@ This week there are a number of slides and recorded lectures to get through. The
 * [Recorded Lecture: Part 1](https://drive.google.com/open?id=1c6PfcKeh5Ol3LNK-WY9opk6z70BOhJPV)
 * [Recorded Lecture: Part 2](https://drive.google.com/open?id=1gDah1eVdmFOj1XNbdT8xXiPGNGowu6ix)
 
-### Looking to step away from the Code? Take this short course and skill up :rocket:
+### Javascript too much right now? Looking to step away from the Code? 
 
-* [Learn the basics of Mobile Development](https://www.futurelearn.com/courses/digital-skills-mobile) :iphone:
-* [Learn the basics of UX](https://www.futurelearn.com/courses/digital-skills-user-experience) :girl:
+Take this short course and skill up :rocket: :arrow_down:
+
+* [Learn the basics of Mobile Development](https://www.futurelearn.com/courses/digital-skills-mobile) :iphone: (Takes upto 3-4 hours)
+* [Learn the basics of UX](https://www.futurelearn.com/courses/digital-skills-user-experience) :girl: (Takes around 3-4 hours)
