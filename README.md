@@ -93,8 +93,9 @@ Approx time 1hr - 2hrs
 * [Recorded Lecture: Part 1](https://drive.google.com/open?id=1c6PfcKeh5Ol3LNK-WY9opk6z70BOhJPV)
 * [Recorded Lecture: Part 2](https://drive.google.com/open?id=1gDah1eVdmFOj1XNbdT8xXiPGNGowu6ix)
 
-### Further Learning 
+### Further Reading :books: 
 * [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+
 ### Javascript too much right now? Looking to step away from the Code? 
 
 Take this short course and skill up :rocket: :arrow_down:
