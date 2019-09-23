@@ -42,9 +42,9 @@ For the full week click [here](/Week8)
 
 :calendar: For the full task list see [here](./Week9/README.md)
 
-## Week 10 :bell: - 
+## Week 10 :bell: 
 
-You're here! It's Week 10! 
+You're here! It's Week 10! :Happy:
 
 If you're reading this message you have managed to survive 10 whole weeks?! 
 
@@ -56,11 +56,16 @@ This week there are a number of slides and recorded lectures to get through. The
 
 # Schedule for the week (Including scheduled field trips) :calendar: :train:
 
-* Monday - :round_pushpin: Bolton. Continue with lessons on Github
-* Tuesday - :round_pushpin: Bolton. Continue with lessons on Github / For some a trip to *Working Wardrobe* :shirt:
-* Wednesday - :round_pushpin: Manchester *UKFAST* - Linux Workshop // *Telcom* - Fireside chats
-* Thursday - :round_pushpin: Bolton. We have two guest lecturers that are senior Developers to teach some sessions - The incredible Mike Longworth & *Bring Digital*'s CTO Andy.
-* Friday :round_pushpin: Salford - Media City. Tour of the Landing (Home of the *3D printer!*) and tour and chat with tech team at the *BBC!* :tv:
+#### Monday 
+Continue with lessons on Github :round_pushpin: Bolton. 
+#### Tuesday
+Continue with lessons on Github / For some a trip to *Working Wardrobe* :shirt: :round_pushpin: Bolton.
+#### Wednesday
+*UKFAST* - Linux Workshop // *Telcom* - Fireside chats :round_pushpin: Manchester
+#### Thursday
+We have two guest lecturers that are senior Developers to teach some sessions - The incredible Mike Longworth & *Bring Digital*'s CTO Andy :round_pushpin: Bolton.
+#### Friday 
+Tour of the Landing (Home of the *3D printer!*) and tour and chat with tech team at the *BBC!* :tv: :round_pushpin: Salford - Media City. 
 
 ### Session :one: Scope and Closure
 * [Slides](https://docs.google.com/presentation/d/1yHeG25mrWfSilJE1MMc_p-DLQUDNY233AGZQ7RVzwAQ/edit#slide=id.p)
