@@ -4,7 +4,7 @@
 * [Slides](https://docs.google.com/presentation/d/10bAyQG2Tws8__QmDbE13jXyDMr5bO-frw9-jLWQh5eI/edit?usp=sharing)
 * [Recorded Lecture (given by Joe)](https://youtu.be/492_KVgjHK0)
 * [Recorded Lecture (given by Ersel)](https://drive.google.com/open?id=1uUJ28rATZDFw1JsGrnn06t_lA_SxRvmI)
-* [:zap: Prototype / Constructor](./bytes/javascript-101/prototype-constructor.md)
+* [:zap: Prototype / Constructor](../Bytes/javascript-101/prototype-constructor.md)
 
 
 ### Monday Session PM :two: - Object Oriented Programming
@@ -21,7 +21,7 @@ There are also helpful *walkthroughs* for this challenge for when you get stuck!
 :two: *Personal Development* -- This week you will having 1-2-1's with Natalie who will be trying to get to understand what opportunities we need to be be on the look out for! :rocket:
 
 
-:three: Get practising testing and coding in Javascript with the [TDD KATA] challenge (./TDDkata)
+:three: Get practising testing and coding in Javascript with the [TDD KATA](./TDDkata) challenge (./TDDkata)
 All of the links might not work for this, but all files are listed above and you can continue to go through the steps until I get chance to change them this week (apologies :angel:)
 
 
