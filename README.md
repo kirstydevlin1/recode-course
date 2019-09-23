@@ -63,19 +63,14 @@ This week there are a number of slides and recorded lectures to get through. The
 
 ## Schedule for the week (Including scheduled field trips) :calendar: :train:
 
-#### Monday 
-Continue with lessons on Github :round_pushpin: Bolton. 
-#### Tuesday
-Continue with lessons on Github / For some a trip to **Working Wardrobe** :shirt: :round_pushpin: Bolton.
-#### Wednesday
-**UKFAST** - Linux Workshop, K // **Telcom** - Fireside chats :round_pushpin: Manchester
+**Monday** - Continue with lessons on Github :round_pushpin: Bolton. 
+**Tuesday** - Continue with lessons on Github / For some a trip to **Working Wardrobe** :shirt: :round_pushpin: Bolton.
+**Wednesday** - **UKFAST** - Linux Workshop, K // **Telcom** - Fireside chats :round_pushpin: Manchester
 We will all meet at UKFast Campus at 9:40AM, Birley Fields, Manchester M15 5QJ, UK then get travel together to Telcom located in the Northern Quarter. 
-#### Thursday
-We have two guest lecturers that are senior Developers to teach some sessions - The incredible Mike Longworth & **Bring Digital**'s CTO Andy :round_pushpin: Bolton.
-#### Friday 
-Tour of the *Landing* (Home of the *3D printer!*) at 10 AM and tour and chat with tech team at the **BBC!** :tv: :round_pushpin: Salford - Media City. Address: BBC, MediaCityUK,  M50 2EQ.
+**Thursday** - We have two guest lecturers that are senior Developers to teach some sessions - The incredible Mike Longworth & **Bring Digital**'s CTO Andy :round_pushpin: Bolton.
+**Friday** Tour of the *Landing* (Home of the *3D printer!*) at 10 AM and tour and chat with tech team at the **BBC!** :tv: :round_pushpin: Salford - Media City. Address: BBC, MediaCityUK,  M50 2EQ.
 
-If anyone is struggling to travel to any of the locations please *DM Kirsty* on Slack.
+If anyone is struggling to travel to any of the locations please *DM Kirsty* on Slack :car:
 
 ### Session :one: Scope and Closure
 * [Slides](https://docs.google.com/presentation/d/1yHeG25mrWfSilJE1MMc_p-DLQUDNY233AGZQ7RVzwAQ/edit#slide=id.p)
