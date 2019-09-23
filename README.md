@@ -44,15 +44,20 @@ For the full week click [here](/Week8)
 
 ## Week :keycap_10: :bell: - 
 
-You're here! It's Week 10. How There are a number of slides and recorded lectures to get through to this week. They're fresh concepts that you may have touched upon previously. 
+You're here! It's Week 10. 
+
+For some of you.. You may be wondering.. How the hell did I survive 10 weeks?! 
+For others you may have breezed through! As we enter the final few weeks of the course we're going to use this time to cover some more Javascript concepts..
+
+There are a number of slides and recorded lectures to get through to this week. They're fresh concepts that you may have touched upon previously. 
 
 # Schedule for the week (Including scheduled field trips) :calendar: :train:
 
-* Monday - :round_pushpin: [Bolton] Continue with lessons on Github
-* Tuesday - :round_pushpin:  [Bolton] Continue with lessons on Github / For some a trip to Working Wardrobe
-* Wednesday - :round_pushpin:  [Manchester] UKFAST - Linux Workshop // Telcom - Fireside chats
-* Thursday - :round_pushpin:  [Bolton] Lessons from Developers - Mike Longworth & Bring Digital CTO Andy
-* Friday :round_pushpin:  [Salford] Tour of the Landing (Home of the 3D printer) and tour and chat with tech team at the BBC! :video:
+* Monday - :round_pushpin: Bolton. Continue with lessons on Github
+* Tuesday - :round_pushpin: Bolton. Continue with lessons on Github / For some a trip to Working Wardrobe
+* Wednesday - :round_pushpin: Manchester UKFAST - Linux Workshop // Telcom - Fireside chats
+* Thursday - :round_pushpin: Bolton. We have two guest lecturers that are senior Developers to teach some sessions - The incredible Mike Longworth & Bring Digital's CTO Andy.
+* Friday :round_pushpin: Salford - Media City. Tour of the Landing (Home of the 3D printer) and tour and chat with tech team at the BBC! :tv:
 
 ### Session :one: Scope and Closure
 * [Slides](https://docs.google.com/presentation/d/1yHeG25mrWfSilJE1MMc_p-DLQUDNY233AGZQ7RVzwAQ/edit#slide=id.p)
