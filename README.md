@@ -78,3 +78,8 @@ This week there are a number of slides and recorded lectures to get through. The
 * [Slides](https://docs.google.com/presentation/d/1fym8U4diqj0HZVGv-kAVj2k2OHTJ9E-3fOVUSjOnq3k/edit#slide=id.g34b902fe6f_0_30)
 * [Recorded Lecture: Part 1](https://drive.google.com/open?id=1c6PfcKeh5Ol3LNK-WY9opk6z70BOhJPV)
 * [Recorded Lecture: Part 2](https://drive.google.com/open?id=1gDah1eVdmFOj1XNbdT8xXiPGNGowu6ix)
+
+### Looking to step away from the Code? Take this short course and skill up :rocket:
+
+* [Learn the basics of Mobile Development](https://www.futurelearn.com/courses/digital-skills-mobile) :iphone:
+* [Learn the basics of UX](https://www.futurelearn.com/courses/digital-skills-user-experience) :girl:
