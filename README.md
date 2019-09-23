@@ -23,6 +23,13 @@ Courtesy of the folks at Manchester Codes props to Joe Stephen and the team for 
 
 * For the full list of students enrolled [see here](./studentroster).
 
+## Week :six:
+
+### Terminal essentials Recap :ship:
+* [Slides](https://docs.google.com/presentation/d/1w0jTsPLMVAS3qzLex7-N9DDODBFz9teYpCoxfy1Q58o/edit?usp=sharing)
+* [Recorded Lecture Part 1](https://drive.google.com/open?id=1_bwrS4Hbf3VZWCfIN-gnzzpTHTwU6Bo1)
+* [Recorded Lecture Part 2](https://drive.google.com/file/d/1JKT7oRzrS_bEh_iCSusUUmWYzx0lHcuz/view?usp=sharing)
+
 ## Week 8 (8th Sept - 13th Sept 2019)
 
 We covered: 
