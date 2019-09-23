@@ -53,11 +53,11 @@ For the full week click [here](/Week8)
 
 You're here! It's Week 10! :Happy:
 
-If you're reading this message you have managed to survive 10 whole weeks?! 
+If you're reading this message you have managed to survive **10 whole weeks?! **
 
 10 weeks of learning new skills and hopefully pushing yourself to limits that you didn't know you had.
 
-This week is going to be very much more of the same. You will be covering new concepts, developing on existing skills and growing in ability and confidence. As we enter the final few weeks of the course we're going to use some time to absorb new concepts, consolidate on previous lessons and learn from industry experts in the field.
+This week is going to be very much more of the same. **You will be covering new concepts, developing on existing skills and growing in ability and confidence**. As we enter the final few weeks of the course we're going to use some time to absorb new concepts, consolidate on previous lessons and learn from industry experts in the field.
 
 This week there are a number of slides and recorded lectures to get through. They're fresh concepts that you may have touched upon previously and I'll also be throwing in some other prep ahead of meeting folks in Industry.
 
