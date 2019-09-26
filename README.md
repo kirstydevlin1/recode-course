@@ -69,7 +69,7 @@ This week there are a number of slides and recorded lectures to get through. The
 * Thursday - We have two guest lecturers that are senior Developers to teach some sessions - The incredible Mike Longworth & **Bring Digital**'s CTO Andy :round_pushpin: Bolton.
 * Friday  Tour of the *Landing* (Home of the *3D printer!*) at 10 AM and tour and chat with tech team at the **BBC!** :tv: :round_pushpin: Salford - Media City. Address: BBC, MediaCityUK,  M50 2EQ.
 
-If anyone is struggling to travel to any of the locations please *DM Kirsty* on Slack :car:
+### For all Industry week [contacts](./Week10/IndustryWeek) and [information](./Week10/IndustryWeek)
 
 ### Session :one: Scope and Closure - 
 Approx time 1hr
