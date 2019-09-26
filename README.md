@@ -140,5 +140,108 @@ No new concepts, revisiting last 3 lectures' material.
 * [Slides](https://docs.google.com/presentation/d/12zRRJO90T0fn2hgh1pJZ4lkuvAu8zN5wbcHJZZ2h1Co/edit?usp=sharing)
 * [Recorded Lecture](https://drive.google.com/open?id=1FYN_GY4fTeN0HvnKIo9hcSm63_7sgb4y)
 
+## Week 12
+
+* [:ship: Track - Cruise Ships GUI](week8/README.md)
+
+### Session :one: - JavaScript in the browser
+
+* [Slides](https://docs.google.com/presentation/d/1pHKb5d8WfGwEGT2hRzxYbJ8mzETDUzIEQjRYEQzmDzs/edit?usp=sharing)
+* [Recorded Lecture](https://drive.google.com/open?id=1gJ1Fy-7ITCim8felpiHZryjk0IO7LPBy)
+
+### Session :two: - Forms
+* [Slides](https://docs.google.com/presentation/d/1B8HHOHfkmZ9EvBNJj-avkkE5Y4tc93IeBciGM1RQWG0/edit?usp=sharing)
+* [Recorded Lecture](https://drive.google.com/file/d/1Vp9WfS-OkhbBCeDZS0IsCtJ98S4QMnqm/view?usp=sharing)
+
+### [:books: Assignment](week8/assignment.md)
+
+* [:cloud: Track - Weather App](week13-15/README.md)
+* [:speaker: Bonus Track - YouTube Jukebox](legacy/week15/README.md) - Please only start when you've finished the Weather app.
+
+### Session :three: - Async and Events
+* [Slides](https://docs.google.com/presentation/d/1hjdAj3Ge2-iFQ_J--ogqafUwc4PIn-lz1uJSu3tzGGM/edit#slide=id.p)
+* [Recorded Lecture](https://drive.google.com/open?id=1-IhqhkRXX76uTiKnA-XfXWtPKlTj-Ki9)
+
+### Session :four: - Intro to React
+* [Slides](https://docs.google.com/presentation/d/1yogE2NWd5UN3LAO9x9GMKCCJXCjw1nf9mFJVaeAYi6M/edit?usp=sharing)
+* [Recorded Lecture](https://drive.google.com/file/d/13gNwg2qEVfUaLmWn-vUsYohFjIkDYrLe/view?usp=sharing)
+
+### Session :five: - Stateful Components and Event Handlers
+* [Slides](https://docs.google.com/presentation/d/1m6pVCbPO9H3tlV2VqYXLjkrjZ6Stlr5b_FeFYUNROJ4/edit#slide=id.p)
+* [Recorded Lecture Pt1](https://drive.google.com/open?id=1hDUn71fy3k_6b-DNU2AxvRnofpQTsJ--)
+* [Recorded Lecture Pt2](https://drive.google.com/open?id=1UzK5q4B22EhhNZIpgq5A_VXHXuEl_Qqm)
+* [Mortgage Calculator Repo](https://github.com/MCRcodes/mortgage-calculator-react)
+
+### Session :six: - React Lifecycle Methods
+* [Slides](https://docs.google.com/presentation/d/1APS45h7xPdGyB_-mkQvKzwFgLoxKsTD1K5p038I5s-8/edit?usp=sharing)
+* [Recorded Lecture](https://drive.google.com/open?id=1Hrtcp5BXuE0gUkrA0__4MS-v3q7p4DoC)
+
+### Session :seven: - Revision: Props, State and Lifecycle
+No new concepts, revisiting last 3 lectures' material.
+* [Recorded Lecture Pt 1](https://drive.google.com/open?id=15gHtoX66HXxJLXlEsNPi_N7y33KDMChG)
+* [Recorded Lecture Pt 2](https://drive.google.com/open?id=1H15amKgQBW0GW30zmSry-qs1cIyQXAlH)
+
+### Session :eight: - The Internet
+* [Slides](https://docs.google.com/presentation/d/12zRRJO90T0fn2hgh1pJZ4lkuvAu8zN5wbcHJZZ2h1Co/edit?usp=sharing)
+* [Recorded Lecture](https://drive.google.com/open?id=1FYN_GY4fTeN0HvnKIo9hcSm63_7sgb4y)
+
+### :books: Assignment - No assignment. Please focus on finishing the track.
+
+## :round_pushpin: Weeks 12 to 14
+
+* [:house_with_garden: Track: Surreal Estate](surreal-estate/README.md)
+
+### Session :ten: - React Router
+* [Slides](https://docs.google.com/presentation/d/1HoH3jzbfKC_Bqf1coaF2XkhiGsgUKgoo7nXU1YGSbXU/edit?usp=sharing)
+* [Recorded Lecture](https://drive.google.com/open?id=17JfqCo-Am6f2N5JFQ1uKanozMWHboFxd)
+* [Examples Repo](https://github.com/MCRcodes/routing-examples)
+
+### Session :eleven: - React Forms
+* [Slides](https://docs.google.com/presentation/d/1kcSQdQoZa9Rsi1CTQFVzNxV4ch9GS0GB0k_YuYnjiPc/edit?usp=sharing)
+* [Recorded Lecture Part 1](https://drive.google.com/open?id=1P3txwl2pw0LfQ8xMpQKFaIdDnEl4h9-7)
+* [Recorded Lecture Part 2](https://drive.google.com/open?id=10Nh6ciTHFvkdTpIXn7UFPa-VZ4_6DHsz)
+
+### Session :three: - JavaScript Memory Management (by ref/by value)
+* [Slides](https://docs.google.com/presentation/d/1BvgszmRHAchNKfkSP-Qn-i3pS9FT3KG-sB2P01tCS7A/)
+* [Recorded Lecture](https://drive.google.com/open?id=1ak2QVyjU1T8HZwIpgZSBLHLfBlI266gQ)
+
+### Session :four: - Terminal essentials
+This was a non-track related filler class, feel free to skip.
+* [Slides](https://docs.google.com/presentation/d/1w0jTsPLMVAS3qzLex7-N9DDODBFz9teYpCoxfy1Q58o/edit?usp=sharing)
+* [Recorded Lecture Part 1](https://drive.google.com/open?id=1_bwrS4Hbf3VZWCfIN-gnzzpTHTwU6Bo1)
+* [Recorded Lecture Part 2](https://drive.google.com/file/d/1JKT7oRzrS_bEh_iCSusUUmWYzx0lHcuz/view?usp=sharing)
+
+### Session :five: - Express APIs
+* [Slides](https://docs.google.com/presentation/d/1Ri0FhurnIhV-OzD4cgUPDXGIZaxMM33F32f0rvtbYfU/edit#slide=id.g36a86b9372_0_32)
+* [Recorded Lecture](https://drive.google.com/open?id=1awKjTrdo0gmZkS3AhZF0pbYPJH__GuOY)
+
+### Session :six: - API Whisperer :ghost:
+No new concepts. We played a game where we practiced creating APIs using express also communicated with other APIs using Postman.
+* [Game Instructions](https://docs.google.com/presentation/d/1O3L0HUA8i9hqcwBT0tTAL0QO69TGTWT6NjnfcNJ4hwM/edit?usp=sharing)
+* [Judge API](https://gitlab.com/mcrcodes/api-whisperer)
+
+## Week 15
+
+* [Track: Shopping List](week9/README.md)
+
+### Session :one: - Node.js
+
+* [Slides](https://docs.google.com/presentation/d/10V9QGi0uadTZ_eORBw8vrnPne37CWliqjbl_ydY70oA/edit?usp=sharing)
+* [Recorded Lecture](https://drive.google.com/file/d/13vujt3ht2yemnQ1E4lJGp8ltCfFKpp1U/view?usp=sharing) - 5 minutes of this lecture cut off surrounding writing a basic HTTP server with the `http` module. You can find a good tutorial on this [here](https://blog.risingstack.com/your-first-node-js-http-server/).
+
+### Session :two: - Express/TDD
+
+* [Recorded Lecture](https://drive.google.com/file/d/1ykcVn3eu8uCPLmLJ6LIEJLqB_lbDghc8/view?usp=sharing)
+* [Code](https://github.com/MCRcodes/medical-records)
+
+## Week 16
+
+* [Track - Microlife Calculator](week10/README.md)
+
+### Session :one: - MongoDB
+
+* [Slides](https://docs.google.com/presentation/d/1OlAKnRpHKEPzfru9prL9V9HLNk4-uz-0BJRWIT17XHs/edit?usp=sharing)
+* [Recorded Lecture](https://drive.google.com/file/d/1ea4vz2k24DJxFsG_habI_lH8pkDwiNGn/view?usp=sharing)
+
 ## After the Course 
 Resources, roles, responsibilities and [courses](./after_the_course) to consider after the course has ended.
