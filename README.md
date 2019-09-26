@@ -101,3 +101,12 @@ Take this short course and skill up :rocket: :arrow_down:
 
 * [Learn the basics of Mobile Development](https://www.futurelearn.com/courses/digital-skills-mobile) :iphone: (Takes upto 3-4 hours)
 * [Learn the basics of UX](https://www.futurelearn.com/courses/digital-skills-user-experience) :girl: (Takes around 3-4 hours)
+
+### JavaScript in the browser 
+
+* [Slides](https://docs.google.com/presentation/d/1pHKb5d8WfGwEGT2hRzxYbJ8mzETDUzIEQjRYEQzmDzs/edit?usp=sharing)
+* [Recorded Lecture](https://drive.google.com/open?id=1gJ1Fy-7ITCim8felpiHZryjk0IO7LPBy)
+
+### Forms
+* [Slides](https://docs.google.com/presentation/d/1B8HHOHfkmZ9EvBNJj-avkkE5Y4tc93IeBciGM1RQWG0/edit?usp=sharing)
+* [Recorded Lecture](https://drive.google.com/file/d/1Vp9WfS-OkhbBCeDZS0IsCtJ98S4QMnqm/view?usp=sharing)
