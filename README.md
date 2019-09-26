@@ -108,26 +108,28 @@ Approx time 1hr - 2hrs
 * [Slides](https://docs.google.com/presentation/d/1hjdAj3Ge2-iFQ_J--ogqafUwc4PIn-lz1uJSu3tzGGM/edit#slide=id.p)
 * [Recorded Lecture](https://drive.google.com/open?id=1-IhqhkRXX76uTiKnA-XfXWtPKlTj-Ki9)
 
-### Session :two: - Intro to React
+## Week 11 
+
+### Session :one: - Intro to React
 * [Slides](https://docs.google.com/presentation/d/1yogE2NWd5UN3LAO9x9GMKCCJXCjw1nf9mFJVaeAYi6M/edit?usp=sharing)
 * [Recorded Lecture](https://drive.google.com/file/d/13gNwg2qEVfUaLmWn-vUsYohFjIkDYrLe/view?usp=sharing)
 
-### Session :three: - Stateful Components and Event Handlers
+### Session :two: - Stateful Components and Event Handlers
 * [Slides](https://docs.google.com/presentation/d/1m6pVCbPO9H3tlV2VqYXLjkrjZ6Stlr5b_FeFYUNROJ4/edit#slide=id.p)
 * [Recorded Lecture Pt1](https://drive.google.com/open?id=1hDUn71fy3k_6b-DNU2AxvRnofpQTsJ--)
 * [Recorded Lecture Pt2](https://drive.google.com/open?id=1UzK5q4B22EhhNZIpgq5A_VXHXuEl_Qqm)
 * [Mortgage Calculator Repo](https://github.com/MCRcodes/mortgage-calculator-react)
 
-### Session :four: - React Lifecycle Methods
+### Session :three: - React Lifecycle Methods
 * [Slides](https://docs.google.com/presentation/d/1APS45h7xPdGyB_-mkQvKzwFgLoxKsTD1K5p038I5s-8/edit?usp=sharing)
 * [Recorded Lecture](https://drive.google.com/open?id=1Hrtcp5BXuE0gUkrA0__4MS-v3q7p4DoC)
 
-### Session :five: - Revision: Props, State and Lifecycle
+### Session :four: - Revision: Props, State and Lifecycle
 No new concepts, revisiting last 3 lectures' material.
 * [Recorded Lecture Pt 1](https://drive.google.com/open?id=15gHtoX66HXxJLXlEsNPi_N7y33KDMChG)
 * [Recorded Lecture Pt 2](https://drive.google.com/open?id=1H15amKgQBW0GW30zmSry-qs1cIyQXAlH)
 
-### Session :six: - The Internet
+### Session :five: - The Internet
 * [Slides](https://docs.google.com/presentation/d/12zRRJO90T0fn2hgh1pJZ4lkuvAu8zN5wbcHJZZ2h1Co/edit?usp=sharing)
 * [Recorded Lecture](https://drive.google.com/open?id=1FYN_GY4fTeN0HvnKIo9hcSm63_7sgb4y)
 
