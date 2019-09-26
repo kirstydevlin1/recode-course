@@ -42,3 +42,19 @@ Students present to the group:
 :round_pushpin: Pick up Location: Assigned by Driver Kirsty, Josh or Adrian
 :pushpin: Location: UKFast Campus, Birley Fields, Manchester M15 5QJ.
 :clock9: Time: Must get to to UKFAST for *9:40AM*.
+
+### Useful Contact Details 
+
+- Aaron Saxton
+- Tom
+- Ali - Telcom
+- Thom - Telcom
+
+### JavaScript in the browser 
+
+* [Slides](https://docs.google.com/presentation/d/1pHKb5d8WfGwEGT2hRzxYbJ8mzETDUzIEQjRYEQzmDzs/edit?usp=sharing)
+* [Recorded Lecture](https://drive.google.com/open?id=1gJ1Fy-7ITCim8felpiHZryjk0IO7LPBy)
+
+### Forms
+* [Slides](https://docs.google.com/presentation/d/1B8HHOHfkmZ9EvBNJj-avkkE5Y4tc93IeBciGM1RQWG0/edit?usp=sharing)
+* [Recorded Lecture](https://drive.google.com/file/d/1Vp9WfS-OkhbBCeDZS0IsCtJ98S4QMnqm/view?usp=sharing)
