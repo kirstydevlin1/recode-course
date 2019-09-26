@@ -1,4 +1,4 @@
-*Recode - Industry Day - Wednesday 25th September*
+### Recode - Industry Day - Wednesday 25th September
 
 :city_sunset:*UKFAST*:city_sunset:
 
@@ -19,12 +19,12 @@
 :cake: 16.55 - 17.30   Student presentations and celebration
 :white_check_mark:17:30 -- Finish
 
-```Student Introductions:
+Student Introductions:
 Students present to the group:
 
 -- What recode has done for me
 -- What are my next steps
--- Where do I want to be this time next year```
+-- Where do I want to be this time next year
 
 :umbrella: *Things to bring:*
 
@@ -34,14 +34,6 @@ Students present to the group:
 - Wear Casual clothes (What you wore today will be fine)
 - Enthusiasm
 
-:train: *Travel plans*:bullettrain_side:
-
-:car: Adrian Pick up: @Adrian @krissy @Ewan Sharples @AdeleGee
-:blue_car: Josh Pick up: @Josh @Nicholas Burness @Aadil Mohammed @Matt
-:red_car: Kirsty Pick up: @Kirsty @Nick @Eden @Mohammed Miah
-:round_pushpin: Pick up Location: Assigned by Driver Kirsty, Josh or Adrian
-:pushpin: Location: UKFast Campus, Birley Fields, Manchester M15 5QJ.
-:clock9: Time: Must get to to UKFAST for *9:40AM*.
 
 ### Useful Contact Details 
 
