@@ -86,21 +86,14 @@ Approx time 1hr
 * [Slides](https://docs.google.com/presentation/d/1J79g3-L35aOLa842wQyrd04Y5sGDn6PqWE55pUxVhTI/edit#slide=id.p)
 * [Recorded Lecture](https://drive.google.com/open?id=1b64YAs3t1OCohelRfsSywv9zdb-lgkER)
 
+### Further Reading :books: 
+* [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+
 ### Session :four: - Jest Mocks, Stubs and Spies - 
 Approx time 1hr - 2hrs
 * [Slides](https://docs.google.com/presentation/d/1fym8U4diqj0HZVGv-kAVj2k2OHTJ9E-3fOVUSjOnq3k/edit#slide=id.g34b902fe6f_0_30)
 * [Recorded Lecture: Part 1](https://drive.google.com/open?id=1c6PfcKeh5Ol3LNK-WY9opk6z70BOhJPV)
 * [Recorded Lecture: Part 2](https://drive.google.com/open?id=1gDah1eVdmFOj1XNbdT8xXiPGNGowu6ix)
-
-### Further Reading :books: 
-* [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
-
-### Javascript too much right now? Looking to step away from the Code? 
-
-Take this short course and skill up :rocket: :arrow_down:
-
-* [Learn the basics of Mobile Development](https://www.futurelearn.com/courses/digital-skills-mobile) :iphone: (Takes upto 3-4 hours)
-* [Learn the basics of UX](https://www.futurelearn.com/courses/digital-skills-user-experience) :girl: (Takes around 3-4 hours)
 
 ### JavaScript in the browser 
 
@@ -110,3 +103,40 @@ Take this short course and skill up :rocket: :arrow_down:
 ### Forms
 * [Slides](https://docs.google.com/presentation/d/1B8HHOHfkmZ9EvBNJj-avkkE5Y4tc93IeBciGM1RQWG0/edit?usp=sharing)
 * [Recorded Lecture](https://drive.google.com/file/d/1Vp9WfS-OkhbBCeDZS0IsCtJ98S4QMnqm/view?usp=sharing)
+
+### Session :one: - Async and Events
+* [Slides](https://docs.google.com/presentation/d/1hjdAj3Ge2-iFQ_J--ogqafUwc4PIn-lz1uJSu3tzGGM/edit#slide=id.p)
+* [Recorded Lecture](https://drive.google.com/open?id=1-IhqhkRXX76uTiKnA-XfXWtPKlTj-Ki9)
+
+### Session :two: - Intro to React
+* [Slides](https://docs.google.com/presentation/d/1yogE2NWd5UN3LAO9x9GMKCCJXCjw1nf9mFJVaeAYi6M/edit?usp=sharing)
+* [Recorded Lecture](https://drive.google.com/file/d/13gNwg2qEVfUaLmWn-vUsYohFjIkDYrLe/view?usp=sharing)
+
+### Session :three: - Stateful Components and Event Handlers
+* [Slides](https://docs.google.com/presentation/d/1m6pVCbPO9H3tlV2VqYXLjkrjZ6Stlr5b_FeFYUNROJ4/edit#slide=id.p)
+* [Recorded Lecture Pt1](https://drive.google.com/open?id=1hDUn71fy3k_6b-DNU2AxvRnofpQTsJ--)
+* [Recorded Lecture Pt2](https://drive.google.com/open?id=1UzK5q4B22EhhNZIpgq5A_VXHXuEl_Qqm)
+* [Mortgage Calculator Repo](https://github.com/MCRcodes/mortgage-calculator-react)
+
+### Session :four: - React Lifecycle Methods
+* [Slides](https://docs.google.com/presentation/d/1APS45h7xPdGyB_-mkQvKzwFgLoxKsTD1K5p038I5s-8/edit?usp=sharing)
+* [Recorded Lecture](https://drive.google.com/open?id=1Hrtcp5BXuE0gUkrA0__4MS-v3q7p4DoC)
+
+### Session :five: - Revision: Props, State and Lifecycle
+No new concepts, revisiting last 3 lectures' material.
+* [Recorded Lecture Pt 1](https://drive.google.com/open?id=15gHtoX66HXxJLXlEsNPi_N7y33KDMChG)
+* [Recorded Lecture Pt 2](https://drive.google.com/open?id=1H15amKgQBW0GW30zmSry-qs1cIyQXAlH)
+
+### Session :six: - The Internet
+* [Slides](https://docs.google.com/presentation/d/12zRRJO90T0fn2hgh1pJZ4lkuvAu8zN5wbcHJZZ2h1Co/edit?usp=sharing)
+* [Recorded Lecture](https://drive.google.com/open?id=1FYN_GY4fTeN0HvnKIo9hcSm63_7sgb4y)
+
+### Javascript too much right now? Looking to step away from the Code? 
+
+Take this short course and skill up :rocket: :arrow_down:
+
+* [Learn the basics of Mobile Development](https://www.futurelearn.com/courses/digital-skills-mobile) :iphone: (Takes upto 3-4 hours)
+* [Learn the basics of UX](https://www.futurelearn.com/courses/digital-skills-user-experience) :girl: (Takes around 3-4 hours)
+
+## After the Course 
+Resources, roles, responsibilities and [courses](./after_the_course) to consider after the course has ended.
