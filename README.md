@@ -95,6 +95,13 @@ Approx time 1hr - 2hrs
 * [Recorded Lecture: Part 1](https://drive.google.com/open?id=1c6PfcKeh5Ol3LNK-WY9opk6z70BOhJPV)
 * [Recorded Lecture: Part 2](https://drive.google.com/open?id=1gDah1eVdmFOj1XNbdT8xXiPGNGowu6ix)
 
+### Javascript too much right now? Looking to step away from the Code? 
+
+Take this short course and skill up :rocket: :arrow_down:
+
+* [Learn the basics of Mobile Development](https://www.futurelearn.com/courses/digital-skills-mobile) :iphone: (Takes upto 3-4 hours)
+* [Learn the basics of UX](https://www.futurelearn.com/courses/digital-skills-user-experience) :girl: (Takes around 3-4 hours)
+
 ### JavaScript in the browser 
 
 * [Slides](https://docs.google.com/presentation/d/1pHKb5d8WfGwEGT2hRzxYbJ8mzETDUzIEQjRYEQzmDzs/edit?usp=sharing)
@@ -132,13 +139,6 @@ No new concepts, revisiting last 3 lectures' material.
 ### Session :five: - The Internet
 * [Slides](https://docs.google.com/presentation/d/12zRRJO90T0fn2hgh1pJZ4lkuvAu8zN5wbcHJZZ2h1Co/edit?usp=sharing)
 * [Recorded Lecture](https://drive.google.com/open?id=1FYN_GY4fTeN0HvnKIo9hcSm63_7sgb4y)
-
-### Javascript too much right now? Looking to step away from the Code? 
-
-Take this short course and skill up :rocket: :arrow_down:
-
-* [Learn the basics of Mobile Development](https://www.futurelearn.com/courses/digital-skills-mobile) :iphone: (Takes upto 3-4 hours)
-* [Learn the basics of UX](https://www.futurelearn.com/courses/digital-skills-user-experience) :girl: (Takes around 3-4 hours)
 
 ## After the Course 
 Resources, roles, responsibilities and [courses](./after_the_course) to consider after the course has ended.
