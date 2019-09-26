@@ -95,16 +95,16 @@ Approx time 1hr - 2hrs
 * [Recorded Lecture: Part 1](https://drive.google.com/open?id=1c6PfcKeh5Ol3LNK-WY9opk6z70BOhJPV)
 * [Recorded Lecture: Part 2](https://drive.google.com/open?id=1gDah1eVdmFOj1XNbdT8xXiPGNGowu6ix)
 
-### JavaScript in the browser 
+### Session :five: JavaScript in the browser 
 
 * [Slides](https://docs.google.com/presentation/d/1pHKb5d8WfGwEGT2hRzxYbJ8mzETDUzIEQjRYEQzmDzs/edit?usp=sharing)
 * [Recorded Lecture](https://drive.google.com/open?id=1gJ1Fy-7ITCim8felpiHZryjk0IO7LPBy)
 
-### Forms
+### Session :six: Forms
 * [Slides](https://docs.google.com/presentation/d/1B8HHOHfkmZ9EvBNJj-avkkE5Y4tc93IeBciGM1RQWG0/edit?usp=sharing)
 * [Recorded Lecture](https://drive.google.com/file/d/1Vp9WfS-OkhbBCeDZS0IsCtJ98S4QMnqm/view?usp=sharing)
 
-### Session :one: - Async and Events
+### Session :seven: - Async and Events
 * [Slides](https://docs.google.com/presentation/d/1hjdAj3Ge2-iFQ_J--ogqafUwc4PIn-lz1uJSu3tzGGM/edit#slide=id.p)
 * [Recorded Lecture](https://drive.google.com/open?id=1-IhqhkRXX76uTiKnA-XfXWtPKlTj-Ki9)
 
