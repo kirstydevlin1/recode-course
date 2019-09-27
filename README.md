@@ -23,6 +23,13 @@ Courtesy of the folks at Manchester Codes props to Joe Stephen and the team for 
 
 * For the full list of students enrolled [see here](./studentroster).
 
+## :zero: Bytes :zap
+## Week :one:
+## Week :two:
+## Week :three:
+## Week :four:
+## Week :five:
+
 ## Week :six:
 
 ### Terminal essentials Recap :ship:
