@@ -24,8 +24,8 @@ Courtesy of the folks at Manchester Codes props to Joe Stephen and the team for 
 * For the full list of students enrolled [see here](./studentroster).
 * For full credits / contacts list
 
-## :zero: [Bytes](./Bytes) :zap:
-Setting your development enviroment
+:zap: [Bytes](./Bytes) :zap:
+Lets start by setting your [development enviroment](./Bytes) up!
 
 ## Week :one:
 ## Week :two:
