@@ -22,14 +22,16 @@
 Courtesy of the folks at Manchester Codes props to Joe Stephen and the team for this! 
 
 * For the full list of students enrolled [see here](./studentroster).
+* For full credits / contacts list
 
-## :zero: Bytes :zap
+## :zero: [Bytes](./Bytes) :zap:
+Setting your development enviroment
+
 ## Week :one:
 ## Week :two:
 ## Week :three:
 ## Week :four:
 ## Week :five:
-
 ## Week :six:
 
 ### Terminal essentials Recap :ship:
