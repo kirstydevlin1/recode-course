@@ -47,6 +47,8 @@ For the full week click [here](/Week8)
 
 :dog: Create your own [Virtual Pet](./Week9)
 
+:zap: [Bytes](./Bytes) - Setting your enviorment up
+
 :calendar: For the full task list see [here](./Week9/README.md)
 
 ## Week 10 :bell: 
