@@ -119,6 +119,11 @@ Approx time 1hr - 2hrs
 * [Slides](https://docs.google.com/presentation/d/1hjdAj3Ge2-iFQ_J--ogqafUwc4PIn-lz1uJSu3tzGGM/edit#slide=id.p)
 * [Recorded Lecture](https://drive.google.com/open?id=1-IhqhkRXX76uTiKnA-XfXWtPKlTj-Ki9)
 
+### [:books: Assignment](week8/assignment.md)
+
+* [:cloud: Track - Weather App](week13-15/README.md)
+* [:speaker: Bonus Track - YouTube Jukebox](legacy/week15/README.md) - Please only start when you've finished the Weather app.
+
 ### Javascript too much right now? Looking to step away from the Code? 
 
 Take this short course and skill up :rocket: :arrow_down:
@@ -158,18 +163,6 @@ No new concepts, revisiting last 3 lectures' material.
 * [Slides](https://docs.google.com/presentation/d/1pHKb5d8WfGwEGT2hRzxYbJ8mzETDUzIEQjRYEQzmDzs/edit?usp=sharing)
 * [Recorded Lecture](https://drive.google.com/open?id=1gJ1Fy-7ITCim8felpiHZryjk0IO7LPBy)
 
-### Session :seven: - Forms
-* [Slides](https://docs.google.com/presentation/d/1B8HHOHfkmZ9EvBNJj-avkkE5Y4tc93IeBciGM1RQWG0/edit?usp=sharing)
-* [Recorded Lecture](https://drive.google.com/file/d/1Vp9WfS-OkhbBCeDZS0IsCtJ98S4QMnqm/view?usp=sharing)
-
-### [:books: Assignment](week8/assignment.md)
-
-* [:cloud: Track - Weather App](week13-15/README.md)
-* [:speaker: Bonus Track - YouTube Jukebox](legacy/week15/README.md) - Please only start when you've finished the Weather app.
-
-### Session :eight: - Async and Events
-* [Slides](https://docs.google.com/presentation/d/1hjdAj3Ge2-iFQ_J--ogqafUwc4PIn-lz1uJSu3tzGGM/edit#slide=id.p)
-* [Recorded Lecture](https://drive.google.com/open?id=1-IhqhkRXX76uTiKnA-XfXWtPKlTj-Ki9)
 
 ## Week 12
 
