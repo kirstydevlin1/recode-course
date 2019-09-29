@@ -155,11 +155,6 @@ No new concepts, revisiting last 3 lectures' material.
 
 * [:ship: Track - Cruise Ships GUI](week8/README.md)
 
-### Session :six: - JavaScript in the browser
-
-* [Slides](https://docs.google.com/presentation/d/1pHKb5d8WfGwEGT2hRzxYbJ8mzETDUzIEQjRYEQzmDzs/edit?usp=sharing)
-* [Recorded Lecture](https://drive.google.com/open?id=1gJ1Fy-7ITCim8felpiHZryjk0IO7LPBy)
-
 ## Week 12
 
 ### Session :one: - Intro to React
@@ -212,8 +207,6 @@ No new concepts. We played a game where we practiced creating APIs using express
 * [Game Instructions](https://docs.google.com/presentation/d/1O3L0HUA8i9hqcwBT0tTAL0QO69TGTWT6NjnfcNJ4hwM/edit?usp=sharing)
 * [Judge API](https://gitlab.com/mcrcodes/api-whisperer)
 
-## Week 15
-
 * [Track: Shopping List](week9/README.md)
 
 ### Session :one: - Node.js
@@ -226,7 +219,6 @@ No new concepts. We played a game where we practiced creating APIs using express
 * [Recorded Lecture](https://drive.google.com/file/d/1ykcVn3eu8uCPLmLJ6LIEJLqB_lbDghc8/view?usp=sharing)
 * [Code](https://github.com/MCRcodes/medical-records)
 
-## Week 16
 
 * [Track - Microlife Calculator](week10/README.md)
 
