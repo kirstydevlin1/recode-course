@@ -126,7 +126,7 @@ Take this short course and skill up :rocket: :arrow_down:
 * [Learn the basics of Mobile Development](https://www.futurelearn.com/courses/digital-skills-mobile) :iphone: (Takes upto 3-4 hours)
 * [Learn the basics of UX](https://www.futurelearn.com/courses/digital-skills-user-experience) :girl: (Takes around 3-4 hours)
 
-:medal: Add your certificates to the Slack Channel :arrow_right: #small-wins
+:star: Add your certificates to the Slack Channel :arrow_right: #small-wins
 
 ## Week 11 
 
@@ -159,7 +159,6 @@ No new concepts, revisiting last 3 lectures' material.
 
 * [Slides](https://docs.google.com/presentation/d/1pHKb5d8WfGwEGT2hRzxYbJ8mzETDUzIEQjRYEQzmDzs/edit?usp=sharing)
 * [Recorded Lecture](https://drive.google.com/open?id=1gJ1Fy-7ITCim8felpiHZryjk0IO7LPBy)
-
 
 ## Week 12
 
