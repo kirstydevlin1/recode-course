@@ -119,17 +119,14 @@ Approx time 1hr - 2hrs
 * [Slides](https://docs.google.com/presentation/d/1hjdAj3Ge2-iFQ_J--ogqafUwc4PIn-lz1uJSu3tzGGM/edit#slide=id.p)
 * [Recorded Lecture](https://drive.google.com/open?id=1-IhqhkRXX76uTiKnA-XfXWtPKlTj-Ki9)
 
-### [:books: Assignment](week8/assignment.md)
-
-* [:cloud: Track - Weather App](week13-15/README.md)
-* [:speaker: Bonus Track - YouTube Jukebox](legacy/week15/README.md) - Please only start when you've finished the Weather app.
-
 ### Javascript too much right now? Looking to step away from the Code? 
 
 Take this short course and skill up :rocket: :arrow_down:
 
 * [Learn the basics of Mobile Development](https://www.futurelearn.com/courses/digital-skills-mobile) :iphone: (Takes upto 3-4 hours)
 * [Learn the basics of UX](https://www.futurelearn.com/courses/digital-skills-user-experience) :girl: (Takes around 3-4 hours)
+
+:medal: Add your certificates to the Slack Channel :arrow_right: #small-wins
 
 ## Week 11 
 
