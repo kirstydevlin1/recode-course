@@ -1,30 +1,25 @@
-### Recode - Industry Day - Wednesday 25th September
+## Week 10
 
-:city_sunset:*UKFAST*:city_sunset:
+You're here! It's Week 10! :Happy:
 
-:clock9:9:45 - Arrival & Sign in :car:
-:black_circle:10AM - Tour, Roles & opportunities, Skills needed for the industry
-:black_circle:11AM - Tea break
-:black_circle:Labs - Launch a website in linux
-:black_circle:1PM - Finish
+If you're reading this message you have managed to survive **10 whole weeks?! **
 
-:sandwich:1-1:45PM - Lunch
-:blue_car: 1:45 - Travel to Telcom
+10 weeks of learning new skills and hopefully pushing yourself to limits that you didn't know you had.
 
-:desert_island:*TELCOM*:desert_island:
-:clock9:14.30 - Arrive at Telcom :blue_car:
-:black_circle:14:35 -  Intros & refreshments - Jacquelyn Goddard - Telcom Group vision
-:black_circle:14.45 - Area lead presentations & Q & A
-:black_circle:16:45 -16:55 - Kirsty Summary of Recode so far
-:cake: 16.55 - 17.30   Student presentations and celebration
-:white_check_mark:17:30 -- Finish
+This week is going to be very much more of the same. **You will be covering new concepts, developing on existing skills and growing in ability and confidence**. As we enter the final few weeks of the course we're going to use some time to absorb new concepts, consolidate on previous lessons and learn from industry experts in the field.
 
-Student Introductions:
-Students present to the group:
+This week there are a number of slides and recorded lectures to get through. They're fresh concepts that you may have touched upon previously and I'll also be throwing in some other prep ahead of meeting folks in Industry.
 
--- What recode has done for me
--- What are my next steps
--- Where do I want to be this time next year
+## Schedule for the week (Including scheduled field trips) :calendar: :train:
+
+* Monday - Continue with lessons on **Github** :round_pushpin: Bolton. 
+* Tuesday - Continue with lessons on **Github** / For some a trip to **Working Wardrobe** :shirt: :round_pushpin: Bolton.
+* Wednesday - **UKFAST** - For the [full itineray click here](./Week10/README.md)
+* Thursday - We have two guest lecturers that are senior Developers to teach some sessions - The incredible Mike Longworth & **Bring Digital**'s CTO Andy :round_pushpin: Bolton.
+* Friday  Tour of the *Landing* (Home of the *3D printer!*) at 10 AM and tour and chat with tech team at the **BBC!** :tv: :round_pushpin: Salford - Media City. Address: BBC, MediaCityUK,  M50 2EQ.
+
+### For all Industry week [contacts](./Week10/IndustryWeek) and [information](./Week10/IndustryWeek)
+
 
 :umbrella: *Things to bring:*
 
@@ -41,12 +36,3 @@ Students present to the group:
 - Tom
 - Ali - Telcom
 - Thom - Telcom
-
-### JavaScript in the browser 
-
-* [Slides](https://docs.google.com/presentation/d/1pHKb5d8WfGwEGT2hRzxYbJ8mzETDUzIEQjRYEQzmDzs/edit?usp=sharing)
-* [Recorded Lecture](https://drive.google.com/open?id=1gJ1Fy-7ITCim8felpiHZryjk0IO7LPBy)
-
-### Forms
-* [Slides](https://docs.google.com/presentation/d/1B8HHOHfkmZ9EvBNJj-avkkE5Y4tc93IeBciGM1RQWG0/edit?usp=sharing)
-* [Recorded Lecture](https://drive.google.com/file/d/1Vp9WfS-OkhbBCeDZS0IsCtJ98S4QMnqm/view?usp=sharing)
