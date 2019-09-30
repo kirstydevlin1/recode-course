@@ -115,9 +115,6 @@ Approx time 1hr - 2hrs
 * [Slides](https://docs.google.com/presentation/d/1B8HHOHfkmZ9EvBNJj-avkkE5Y4tc93IeBciGM1RQWG0/edit?usp=sharing)
 * [Recorded Lecture](https://drive.google.com/file/d/1Vp9WfS-OkhbBCeDZS0IsCtJ98S4QMnqm/view?usp=sharing)
 
-### Session :seven: - Async and Events
-* [Slides](https://docs.google.com/presentation/d/1hjdAj3Ge2-iFQ_J--ogqafUwc4PIn-lz1uJSu3tzGGM/edit#slide=id.p)
-* [Recorded Lecture](https://drive.google.com/open?id=1-IhqhkRXX76uTiKnA-XfXWtPKlTj-Ki9)
 
 ### Javascript too much right now? Looking to step away from the Code? 
 
@@ -130,84 +127,27 @@ Take this short course and skill up :rocket: :arrow_down:
 
 ## Week 11 
 
-### Session :one: - Intro to React
+* [:cloud: Track - Weather App](week13-15/README.md)
+* [:speaker: Bonus Track - YouTube Jukebox](legacy/week15/README.md) - Please only start when you've finished the Weather app.
+
+### Session :one: - Async and Events
+* [Slides](https://docs.google.com/presentation/d/1hjdAj3Ge2-iFQ_J--ogqafUwc4PIn-lz1uJSu3tzGGM/edit#slide=id.p)
+* [Recorded Lecture](https://drive.google.com/open?id=1-IhqhkRXX76uTiKnA-XfXWtPKlTj-Ki9)
+
+### Session :two: - Intro to React
 * [Slides](https://docs.google.com/presentation/d/1yogE2NWd5UN3LAO9x9GMKCCJXCjw1nf9mFJVaeAYi6M/edit?usp=sharing)
 * [Recorded Lecture](https://drive.google.com/file/d/13gNwg2qEVfUaLmWn-vUsYohFjIkDYrLe/view?usp=sharing)
 
-### Session :two: - Stateful Components and Event Handlers
-* [Slides](https://docs.google.com/presentation/d/1m6pVCbPO9H3tlV2VqYXLjkrjZ6Stlr5b_FeFYUNROJ4/edit#slide=id.p)
-* [Recorded Lecture Pt1](https://drive.google.com/open?id=1hDUn71fy3k_6b-DNU2AxvRnofpQTsJ--)
-* [Recorded Lecture Pt2](https://drive.google.com/open?id=1UzK5q4B22EhhNZIpgq5A_VXHXuEl_Qqm)
-* [Mortgage Calculator Repo](https://github.com/MCRcodes/mortgage-calculator-react)
-
-### Session :three: - React Lifecycle Methods
-* [Slides](https://docs.google.com/presentation/d/1APS45h7xPdGyB_-mkQvKzwFgLoxKsTD1K5p038I5s-8/edit?usp=sharing)
-* [Recorded Lecture](https://drive.google.com/open?id=1Hrtcp5BXuE0gUkrA0__4MS-v3q7p4DoC)
-
-### Session :four: - Revision: Props, State and Lifecycle
-No new concepts, revisiting last 3 lectures' material.
-* [Recorded Lecture Pt 1](https://drive.google.com/open?id=15gHtoX66HXxJLXlEsNPi_N7y33KDMChG)
-* [Recorded Lecture Pt 2](https://drive.google.com/open?id=1H15amKgQBW0GW30zmSry-qs1cIyQXAlH)
-
-### Session :five: - The Internet
-* [Slides](https://docs.google.com/presentation/d/12zRRJO90T0fn2hgh1pJZ4lkuvAu8zN5wbcHJZZ2h1Co/edit?usp=sharing)
-* [Recorded Lecture](https://drive.google.com/open?id=1FYN_GY4fTeN0HvnKIo9hcSm63_7sgb4y)
-
-* [:ship: Track - Cruise Ships GUI](week8/README.md)
-
-## Week 12
-
-### Session :one: - Intro to React
-* [Slides](https://docs.google.com/presentation/d/1yogE2NWd5UN3LAO9x9GMKCCJXCjw1nf9mFJVaeAYi6M/edit?usp=sharing)
-* [Recorded Lecture](https://drive.google.com/file/d/13gNwg2qEVfUaLmWn-vUsYohFjIkDYrLe/view?usp=sharing)
-
-### Session :two: - Stateful Components and Event Handlers
-* [Slides](https://docs.google.com/presentation/d/1m6pVCbPO9H3tlV2VqYXLjkrjZ6Stlr5b_FeFYUNROJ4/edit#slide=id.p)
-* [Recorded Lecture Pt1](https://drive.google.com/open?id=1hDUn71fy3k_6b-DNU2AxvRnofpQTsJ--)
-* [Recorded Lecture Pt2](https://drive.google.com/open?id=1UzK5q4B22EhhNZIpgq5A_VXHXuEl_Qqm)
-* [Mortgage Calculator Repo](https://github.com/MCRcodes/mortgage-calculator-react)
-
-### Session :three: - React Lifecycle Methods
-* [Slides](https://docs.google.com/presentation/d/1APS45h7xPdGyB_-mkQvKzwFgLoxKsTD1K5p038I5s-8/edit?usp=sharing)
-* [Recorded Lecture](https://drive.google.com/open?id=1Hrtcp5BXuE0gUkrA0__4MS-v3q7p4DoC)
-
-### Session :four: - Revision: Props, State and Lifecycle
-No new concepts, revisiting last 3 lectures' material.
-* [Recorded Lecture Pt 1](https://drive.google.com/open?id=15gHtoX66HXxJLXlEsNPi_N7y33KDMChG)
-* [Recorded Lecture Pt 2](https://drive.google.com/open?id=1H15amKgQBW0GW30zmSry-qs1cIyQXAlH)
-
-### Session :five: - The Internet
-* [Slides](https://docs.google.com/presentation/d/12zRRJO90T0fn2hgh1pJZ4lkuvAu8zN5wbcHJZZ2h1Co/edit?usp=sharing)
-* [Recorded Lecture](https://drive.google.com/open?id=1FYN_GY4fTeN0HvnKIo9hcSm63_7sgb4y)
-
-### :books: Assignment - No assignment. Please focus on finishing the track.
-
-* [:house_with_garden: Track: Surreal Estate](surreal-estate/README.md)
-
-### Session :six: - React Router
-* [Slides](https://docs.google.com/presentation/d/1HoH3jzbfKC_Bqf1coaF2XkhiGsgUKgoo7nXU1YGSbXU/edit?usp=sharing)
-* [Recorded Lecture](https://drive.google.com/open?id=17JfqCo-Am6f2N5JFQ1uKanozMWHboFxd)
-* [Examples Repo](https://github.com/MCRcodes/routing-examples)
-
-### Session :seven: - React Forms
-* [Slides](https://docs.google.com/presentation/d/1kcSQdQoZa9Rsi1CTQFVzNxV4ch9GS0GB0k_YuYnjiPc/edit?usp=sharing)
-* [Recorded Lecture Part 1](https://drive.google.com/open?id=1P3txwl2pw0LfQ8xMpQKFaIdDnEl4h9-7)
-* [Recorded Lecture Part 2](https://drive.google.com/open?id=10Nh6ciTHFvkdTpIXn7UFPa-VZ4_6DHsz)
-
-### Session :eight: - JavaScript Memory Management (by ref/by value)
-* [Slides](https://docs.google.com/presentation/d/1BvgszmRHAchNKfkSP-Qn-i3pS9FT3KG-sB2P01tCS7A/)
-* [Recorded Lecture](https://drive.google.com/open?id=1ak2QVyjU1T8HZwIpgZSBLHLfBlI266gQ)
-
-### Session :five: - Express APIs
+### Session :three: - Express APIs
 * [Slides](https://docs.google.com/presentation/d/1Ri0FhurnIhV-OzD4cgUPDXGIZaxMM33F32f0rvtbYfU/edit#slide=id.g36a86b9372_0_32)
 * [Recorded Lecture](https://drive.google.com/open?id=1awKjTrdo0gmZkS3AhZF0pbYPJH__GuOY)
 
-### Session :six: - API Whisperer :ghost:
+### Session :four: - API Whisperer :ghost:
 No new concepts. We played a game where we practiced creating APIs using express also communicated with other APIs using Postman.
 * [Game Instructions](https://docs.google.com/presentation/d/1O3L0HUA8i9hqcwBT0tTAL0QO69TGTWT6NjnfcNJ4hwM/edit?usp=sharing)
 * [Judge API](https://gitlab.com/mcrcodes/api-whisperer)
 
-* [Track: Shopping List](week9/README.md)
+## Week 12
 
 ### Session :one: - Node.js
 
@@ -220,6 +160,75 @@ No new concepts. We played a game where we practiced creating APIs using express
 * [Code](https://github.com/MCRcodes/medical-records)
 
 
+
+* [Track: Shopping List](week9/README.md)
+
+
+
+
+## Beyond Recode
+Resources, roles, responsibilities and [courses](./after_the_course) to consider after the course has ended.
+
+## Beyond Recode
+
+### Session - Stateful Components and Event Handlers
+* [Slides](https://docs.google.com/presentation/d/1m6pVCbPO9H3tlV2VqYXLjkrjZ6Stlr5b_FeFYUNROJ4/edit#slide=id.p)
+* [Recorded Lecture Pt1](https://drive.google.com/open?id=1hDUn71fy3k_6b-DNU2AxvRnofpQTsJ--)
+* [Recorded Lecture Pt2](https://drive.google.com/open?id=1UzK5q4B22EhhNZIpgq5A_VXHXuEl_Qqm)
+* [Mortgage Calculator Repo](https://github.com/MCRcodes/mortgage-calculator-react)
+
+### Session - React Lifecycle Methods
+* [Slides](https://docs.google.com/presentation/d/1APS45h7xPdGyB_-mkQvKzwFgLoxKsTD1K5p038I5s-8/edit?usp=sharing)
+* [Recorded Lecture](https://drive.google.com/open?id=1Hrtcp5BXuE0gUkrA0__4MS-v3q7p4DoC)
+
+### Session - Revision: Props, State and Lifecycle
+No new concepts, revisiting last 3 lectures' material.
+* [Recorded Lecture Pt 1](https://drive.google.com/open?id=15gHtoX66HXxJLXlEsNPi_N7y33KDMChG)
+* [Recorded Lecture Pt 2](https://drive.google.com/open?id=1H15amKgQBW0GW30zmSry-qs1cIyQXAlH)
+
+### Session - The Internet
+* [Slides](https://docs.google.com/presentation/d/12zRRJO90T0fn2hgh1pJZ4lkuvAu8zN5wbcHJZZ2h1Co/edit?usp=sharing)
+* [Recorded Lecture](https://drive.google.com/open?id=1FYN_GY4fTeN0HvnKIo9hcSm63_7sgb4y)
+
+### Session - React Router
+* [Slides](https://docs.google.com/presentation/d/1HoH3jzbfKC_Bqf1coaF2XkhiGsgUKgoo7nXU1YGSbXU/edit?usp=sharing)
+* [Recorded Lecture](https://drive.google.com/open?id=17JfqCo-Am6f2N5JFQ1uKanozMWHboFxd)
+* [Examples Repo](https://github.com/MCRcodes/routing-examples)
+
+### Session - React Forms
+* [Slides](https://docs.google.com/presentation/d/1kcSQdQoZa9Rsi1CTQFVzNxV4ch9GS0GB0k_YuYnjiPc/edit?usp=sharing)
+* [Recorded Lecture Part 1](https://drive.google.com/open?id=1P3txwl2pw0LfQ8xMpQKFaIdDnEl4h9-7)
+* [Recorded Lecture Part 2](https://drive.google.com/open?id=10Nh6ciTHFvkdTpIXn7UFPa-VZ4_6DHsz)
+
+### Session - JavaScript Memory Management (by ref/by value)
+* [Slides](https://docs.google.com/presentation/d/1BvgszmRHAchNKfkSP-Qn-i3pS9FT3KG-sB2P01tCS7A/)
+* [Recorded Lecture](https://drive.google.com/open?id=1ak2QVyjU1T8HZwIpgZSBLHLfBlI266gQ)
+
+### Session - Terminal essentials
+This was a non-track related filler class, feel free to skip.
+* [Slides](https://docs.google.com/presentation/d/1w0jTsPLMVAS3qzLex7-N9DDODBFz9teYpCoxfy1Q58o/edit?usp=sharing)
+* [Recorded Lecture Part 1](https://drive.google.com/open?id=1_bwrS4Hbf3VZWCfIN-gnzzpTHTwU6Bo1)
+* [Recorded Lecture Part 2](https://drive.google.com/file/d/1JKT7oRzrS_bEh_iCSusUUmWYzx0lHcuz/view?usp=sharing)
+
+### Session :three: - Stateful Components and Event Handlers
+* [Slides](https://docs.google.com/presentation/d/1m6pVCbPO9H3tlV2VqYXLjkrjZ6Stlr5b_FeFYUNROJ4/edit#slide=id.p)
+* [Recorded Lecture Pt1](https://drive.google.com/open?id=1hDUn71fy3k_6b-DNU2AxvRnofpQTsJ--)
+* [Recorded Lecture Pt2](https://drive.google.com/open?id=1UzK5q4B22EhhNZIpgq5A_VXHXuEl_Qqm)
+* [Mortgage Calculator Repo](https://github.com/MCRcodes/mortgage-calculator-react)
+
+### Session :four: - React Lifecycle Methods
+* [Slides](https://docs.google.com/presentation/d/1APS45h7xPdGyB_-mkQvKzwFgLoxKsTD1K5p038I5s-8/edit?usp=sharing)
+* [Recorded Lecture](https://drive.google.com/open?id=1Hrtcp5BXuE0gUkrA0__4MS-v3q7p4DoC)
+
+### Session :five: - Revision: Props, State and Lifecycle
+No new concepts, revisiting last 3 lectures' material.
+* [Recorded Lecture Pt 1](https://drive.google.com/open?id=15gHtoX66HXxJLXlEsNPi_N7y33KDMChG)
+* [Recorded Lecture Pt 2](https://drive.google.com/open?id=1H15amKgQBW0GW30zmSry-qs1cIyQXAlH)
+
+### Session :six: - The Internet
+* [Slides](https://docs.google.com/presentation/d/12zRRJO90T0fn2hgh1pJZ4lkuvAu8zN5wbcHJZZ2h1Co/edit?usp=sharing)
+* [Recorded Lecture](https://drive.google.com/open?id=1FYN_GY4fTeN0HvnKIo9hcSm63_7sgb4y)
+
 * [Track - Microlife Calculator](week10/README.md)
 
 ### Session :one: - MongoDB
@@ -227,5 +236,9 @@ No new concepts. We played a game where we practiced creating APIs using express
 * [Slides](https://docs.google.com/presentation/d/1OlAKnRpHKEPzfru9prL9V9HLNk4-uz-0BJRWIT17XHs/edit?usp=sharing)
 * [Recorded Lecture](https://drive.google.com/file/d/1ea4vz2k24DJxFsG_habI_lH8pkDwiNGn/view?usp=sharing)
 
-## After the Course 
-Resources, roles, responsibilities and [courses](./after_the_course) to consider after the course has ended.
+### Session :two: - Mongoose
+
+* Slides
+* Recorded Lecture
+
+* [Track: Shopping List](week9/README.md)
