@@ -2,7 +2,7 @@
 
 Over the next couple of weeks we are going to be covering React, a popular front-end framework for building user interfaces.
 
-Before you go any further, read this byte: [:zap: What is React?](../Bytes/react/what-is-react.md)
+Before you go any further, read this byte: [:zap: What is React?](.../Bytes/react/what-is-react.md)
 
 This is an intense 2 week block - as you will see below, we have a large number of different concepts to cover. Please make all necessary arrangements to ensure you can dedicate as much time to this as possible.
 
