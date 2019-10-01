@@ -4,6 +4,6 @@ The next few steps will introduce some bytes to get you going. You will need to 
 
 **Be sure to follow along with all of the examples introduced in following bytes as you will need to in order to have a foundation for the weather app**.
 
-Onto the first byte: [:zap: React Project Tools](../bytes/react/react-project-tools.md).
+Onto the first byte: [:zap: React Project Tools](../Bytes/react/react-project-tools.md).
 
 ## [Next Step: Rendering JSX](step-2.md)
