@@ -1,6 +1,6 @@
 ## Beyond Recode
 
-## 30 Js projects in 30 days
+### 30 Js projects in 30 days
 https://javascript30.com/
 
 ### Session - Stateful Components and Event Handlers
