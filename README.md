@@ -27,6 +27,12 @@ Courtesy of the folks at Manchester Codes props to Joe Stephen and the team for 
 :zap: [Bytes](./Bytes) :zap:
 Lets start by setting your [development enviroment](./Bytes) up!
 
+## Pre-course Material
+
+* Learn [HTML](https://www.codecademy.com/learn/learn-html)
+* Learn [CSS](https://www.codecademy.com/learn/learn-css)
+* Put your learning into practice [Burger Challenge](https://thimbleprojects.org/mozillalearning/286539/)
+
 ## Week :one:
 
 Lets get started! Head over to [Week One](./Week1/README.md).
