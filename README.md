@@ -28,6 +28,10 @@ Courtesy of the folks at Manchester Codes props to Joe Stephen and the team for 
 Lets start by setting your [development enviroment](./Bytes) up!
 
 ## Week :one:
+
+Lets get started!
+Head over to [Week One](./Week1/README.me) and lets get set up!
+
 ## Week :two:
 ## Week :three:
 ## Week :four:
