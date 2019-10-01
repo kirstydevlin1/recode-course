@@ -1,4 +1,4 @@
-# Weeks 9 and 10 - Intro to React
+# - Intro to React & Weather App
 
 Over the next couple of weeks we are going to be covering React, a popular front-end framework for building user interfaces.
 
