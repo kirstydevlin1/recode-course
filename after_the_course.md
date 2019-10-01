@@ -1,5 +1,8 @@
 ## Beyond Recode
 
+## 30 Js projects in 30 days
+https://javascript30.com/
+
 ### Session - Stateful Components and Event Handlers
 * [Slides](https://docs.google.com/presentation/d/1m6pVCbPO9H3tlV2VqYXLjkrjZ6Stlr5b_FeFYUNROJ4/edit#slide=id.p)
 * [Recorded Lecture Pt1](https://drive.google.com/open?id=1hDUn71fy3k_6b-DNU2AxvRnofpQTsJ--)
