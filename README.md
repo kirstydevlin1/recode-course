@@ -19,7 +19,7 @@
   Recode Course - Cohort 1
 </h1>
 
-Courtesy of the folks at Manchester Codes props to Joe Stephen and the team for this! 
+Courtesy of the folks at [Manchester Codes](http://mcr.codes/) props to [Joe Stephens](https://github.com/joestephens) and the team for this! 
 
 * For the full list of students enrolled [see here](./studentroster).
 * For full credits / contacts list
