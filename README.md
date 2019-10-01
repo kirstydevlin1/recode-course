@@ -29,8 +29,7 @@ Lets start by setting your [development enviroment](./Bytes) up!
 
 ## Week :one:
 
-Lets get started!
-Head over to [Week One](./Week1/README.me) and lets get set up!
+Lets get started! Head over to [Week One](./Week1/README.md).
 
 ## Week :two:
 ## Week :three:
